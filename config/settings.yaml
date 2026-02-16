@@ -1,0 +1,7 @@
+corpus_path: ./pdf
+db_path: ./data/archive.db
+exports_path: ./exports
+chunk_size: 1000
+chunk_overlap: 150
+enable_entity_extraction: false
+enable_topic_extraction: false

@@ -1,0 +1,2 @@
+-- Initial migration file
+-- This file is a placeholder for the initial database schema.
