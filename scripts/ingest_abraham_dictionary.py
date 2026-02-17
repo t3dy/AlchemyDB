@@ -7,7 +7,11 @@ the prose-based entries into the lexicon table.
 
 import re
 import sqlite3
+import sys
 from pathlib import Path
+
+# Add parent directory to path to import db module
+sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.db import Database
 
 def parse_abraham_entries(file_path):
