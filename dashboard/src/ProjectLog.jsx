@@ -5,6 +5,20 @@ function ProjectLog() {
         <div className="project-log-view">
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
 
+                {/* Personnel Profiling Report Section */}
+                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37', marginBottom: '2rem' }}>
+                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Report: Personnel Profiling & Synthesis</h2>
+                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
+                        <p><strong>Phase 12 Update:</strong> We have successfully synthesized historical profiles for our top alchemical practitioners.</p>
+                        <ul>
+                            <li><strong>Paracelsus:</strong> 1,621 Mentions (The Core Anchor)</li>
+                            <li><strong>Michael Maier:</strong> 432 Mentions (The Emblem Master)</li>
+                            <li><strong>John Dee:</strong> 287 Mentions (The Royal Mathematician)</li>
+                        </ul>
+                        <p>Our strategy focuses on <strong>Chronological Anchoring</strong> and <strong>Evidence Trails</strong>, ensuring that every claim in the biography is backed by a verbatim quote from our 205-PDF library.</p>
+                    </div>
+                </section>
+
                 {/* History Section */}
                 <section className="glass-panel" style={{ padding: '2rem' }}>
                     <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>V1: History & Learning Journey</h2>

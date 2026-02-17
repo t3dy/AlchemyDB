@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Discovery from './Discovery'
 import ProjectLog from './ProjectLog'
 import LexiconView from './LexiconView'
+import BiographyDetail from './BiographyDetail'
 import './App.css'
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Discovery />} />
           <Route path="/lexicon" element={<LexiconView />} />
+          <Route path="/biography/:entityId" element={<BiographyDetail />} />
           <Route path="/docs" element={<ProjectLog />} />
         </Routes>
       </div>

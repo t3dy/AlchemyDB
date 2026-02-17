@@ -9,6 +9,7 @@ def export_to_json(config):
     candidates_path = Path(config.exports_path) / "candidates.json"
     lexicon_path = Path(config.exports_path) / "lexicon.json"
     atlas_path = Path(config.exports_path) / "atlas.json"
+    biographies_path = Path(config.exports_path) / "biographies.json"
     
     # Ensure exports directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -59,6 +60,14 @@ def export_to_json(config):
             ORDER BY freq DESC
         """)
         atlas = cursor.fetchall()
+        
+        # 5. Export Biographies
+        cursor.execute("""
+            SELECT b.*, e.name as entity_name
+            FROM biographies b
+            JOIN entities e ON b.entity_id = e.id
+        """)
+        biographies = cursor.fetchall()
 
     with open(output_path, "w") as f:
         json.dump(documents, f, indent=2)
@@ -71,10 +80,14 @@ def export_to_json(config):
         
     with open(atlas_path, "w") as f:
         json.dump(atlas, f, indent=2)
+        
+    with open(biographies_path, "w") as f:
+        json.dump(biographies, f, indent=2)
     
     print(f"Exported {len(documents)} documents to {output_path}")
     print(f"Exported {len(candidates)} candidates to {candidates_path}")
     print(f"Exported {len(lexicon)} lexicon terms to {lexicon_path}")
+    print(f"Exported {len(biographies)} biographies to {biographies_path}")
 
 def sqlite3_row_factory(cursor, row):
     d = {}

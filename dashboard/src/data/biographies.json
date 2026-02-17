@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "entity_id": 4,
+    "full_name": "Theophrastus von Hohenheim",
+    "lifespan": "1493\u20131541",
+    "tradition": "Iatrochemistry, Paracelsianism",
+    "narrative_summary": "A revolutionary physician and alchemist who rejected traditional Scholastic medicine in favor of a chemical approach to healing. He introduced the *Tria Prima* (Salt, Sulphur, Mercury) as the foundational principles of matter and health. His work often sought to synthesize alchemical practice with spiritual and theological insights.",
+    "milestones_json": "[{\"year\": \"1493\", \"event\": \"Born in Einsiedeln, Switzerland.\"}, {\"year\": \"1515\", \"event\": \"Allegedly received doctorate in Ferrara, Italy.\"}, {\"year\": \"1527\", \"event\": \"Burned Avicenna's medical books in Basel, initiating his radical reforms.\"}, {\"year\": \"1530\", \"event\": \"Wrote Paramirum and Paragranum, defining his medical philosophy.\"}, {\"year\": \"1541\", \"event\": \"Died in Salzburg, leaving behind a massive corpus of texts.\"}]",
+    "primary_texts_json": "[\"Opus Paramirum\", \"Astronomia Magna\", \"Archidoxis\"]",
+    "created_at": "2026-02-17 00:32:09",
+    "updated_at": "2026-02-17 00:32:09",
+    "entity_name": "Paracelsus"
+  },
+  {
+    "id": 2,
+    "entity_id": 38,
+    "full_name": "Michael Maier",
+    "lifespan": "1568\u20131622",
+    "tradition": "Hermetic Alchemy, Rosicrucianism",
+    "narrative_summary": "German physician, counselor, and alchemist to Rudolf II. Maier is best known for his emblem books, particularly *Atalanta Fugiens*, which integrated alchemy with mythology and music. He was a central figure in the intellectual circles of the 'Rosicrucian Enlightenment'.",
+    "milestones_json": "[{\"year\": \"1568\", \"event\": \"Born in Rendsburg, Holstein.\"}, {\"year\": \"1608\", \"event\": \"Entered the service of Emperor Rudolf II in Prague.\"}, {\"year\": \"1617\", \"event\": \"Published Atalanta Fugiens, his most famous emblem work.\"}, {\"year\": \"1622\", \"event\": \"Died in Magdeburg.\"}]",
+    "primary_texts_json": "[\"Atalanta Fugiens\", \"Arcana Arcanissima\", \"Symbola Aureae Mensae\"]",
+    "created_at": "2026-02-17 00:32:09",
+    "updated_at": "2026-02-17 00:32:09",
+    "entity_name": "Michael Maier"
+  },
+  {
+    "id": 3,
+    "entity_id": 7,
+    "full_name": "John Dee",
+    "lifespan": "1527\u20131608",
+    "tradition": "Hermeticism, Neoplatonism, Enochian Magick",
+    "narrative_summary": "Advisor to Queen Elizabeth I and a towering figure in the English Renaissance. Dee was a mathematician, astronomer, and alchemist who sought a unified understanding of the physical and spiritual worlds. His *Monas Hieroglyphica* is one of the most dense symbolic works in the Western Esoteric tradition.",
+    "milestones_json": "[{\"year\": \"1527\", \"event\": \"Born in London.\"}, {\"year\": \"1564\", \"event\": \"Published Monas Hieroglyphica in Antwerp.\"}, {\"year\": \"1582\", \"event\": \"Refined his alchemical and magical collaborations with Edward Kelley.\"}, {\"year\": \"1583\", \"event\": \"Traveled to Europe to demonstrate his knowledge to Emperor Rudolf II.\"}, {\"year\": \"1608\", \"event\": \"Died at Mortlake in poverty.\"}]",
+    "primary_texts_json": "[\"Monas Hieroglyphica\", \"Propeudeumata Aphoristica\", \"General and Rare Memorials pertayning to the Perfect Arte of Navigation\"]",
+    "created_at": "2026-02-17 00:32:09",
+    "updated_at": "2026-02-17 00:32:09",
+    "entity_name": "John Dee"
+  }
+]
