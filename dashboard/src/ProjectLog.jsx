@@ -5,6 +5,19 @@ function ProjectLog() {
         <div className="project-log-view">
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
 
+                {/* Textual Summaries Report Section */}
+                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37', marginBottom: '2rem' }}>
+                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Report: Textual Summaries & Critical Apparatus</h2>
+                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
+                        <p><strong>Phase 13 Strategy:</strong> We are transitioning from metadata tracking to thematic analysis. This phase introduces "Syntheis Layers" for major manuscripts.</p>
+                        <ul>
+                            <li><strong>Deep Semantic Harvesting:</strong> Defining the core argument and symbolic structure of each text.</li>
+                            <li><strong>Primary Texts:</strong> Focusing on <em>Splendor Solis</em>, Paracelsus's medical corpus, and John Dee's <em>Monas</em>.</li>
+                        </ul>
+                        <p>These summaries will serve as the "Critical Apparatus" for the library, providing scholarly context before you dive into specific mentions.</p>
+                    </div>
+                </section>
+
                 {/* Personnel Profiling Report Section */}
                 <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37', marginBottom: '2rem' }}>
                     <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Report: Personnel Profiling & Synthesis</h2>
