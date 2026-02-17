@@ -8,7 +8,7 @@ A local-first digital humanities archive for alchemical and esoteric studies.
 - **Relational Database**: SQLite (Metadata and relations)
 - **Extraction Pipeline**: `scripts/` (Python scripts for data extraction)
 - **Export Layer**: `exports/` (Generated JSON data)
-- **Dashboard**: *[Future]*
+- **Dashboard**: [Access Local Dashboard](http://localhost:5173/) (Requires `npm run dev` in the `dashboard` directory)
 
 ## Development Philosophy
 
