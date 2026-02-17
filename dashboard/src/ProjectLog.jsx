@@ -1,92 +1,92 @@
 import React from 'react';
 
 function ProjectLog() {
+    const logs = [
+        {
+            title: "Phase 18: Chemical Synthesis & Terminology Refinement",
+            date: "2026-02-16",
+            content: "Initiated the 'Chemical Synthesis' phase. Developed a Style Guide and Template for dual-history dictionary entries (alchemical vs. modern). Planned 5 specialized scripts for automated substance/process extraction.",
+            tags: ["Synthesis", "Chemical", "Refinement"]
+        },
+        {
+            title: "Phase 17: DH Synthesis & AI Engineering Report",
+            date: "2026-02-16",
+            content: "Synthesized meta-analysis on our Digital Humanities progress. Evaluated the transition from a 'Taxonomic Glossary' to a relational 'Scholarly Apparatus' using deep context engineering.",
+            tags: ["Synthesis", "AI Engineering", "DH"]
+        },
+        {
+            title: "Phase 16: Strategic Feedback & Socio-Economic Modeling",
+            date: "2026-02-16",
+            content: "Integrating insights from 'The Business of Alchemy' (Pamela H. Smith). Expanded schema to support 'Knowledge Type' and 'Social Roles'.",
+            tags: ["Strategy", "Feedback", "Socio-Economic"]
+        }
+    ];
+
     return (
-        <div className="project-log-view">
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '2rem' }}>
+        <div className="project-log-view" style={{ animation: 'fadeIn 0.5s ease-out' }}>
+            <header className="view-header">
+                <h2 style={{ fontSize: '2.5rem', marginBottom: '0.5rem' }}>Laboratory Log & Scholarly Reports</h2>
+                <div className="guide-box glass-panel">
+                    <p><strong>Section Guide:</strong> This log documents the evolution of AlchemyDB from a metadata registry into a multi-dimensional <strong>Scholarly Apparatus</strong>. Below are the deep analytical reports addressing recent scholarly feedback and chemical synthesis strategies.</p>
+                </div>
+            </header>
 
-                {/* Textual Summaries Report Section */}
-                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37', marginBottom: '2rem' }}>
-                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Report: Textual Summaries & Critical Apparatus</h2>
-                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
-                        <p><strong>Phase 13 Strategy:</strong> We are transitioning from metadata tracking to thematic analysis. This phase introduces "Syntheis Layers" for major manuscripts.</p>
-                        <ul>
-                            <li><strong>Deep Semantic Harvesting:</strong> Defining the core argument and symbolic structure of each text.</li>
-                            <li><strong>Primary Texts:</strong> Focusing on <em>Splendor Solis</em>, Paracelsus's medical corpus, and John Dee's <em>Monas</em>.</li>
-                        </ul>
-                        <p>These summaries will serve as the "Critical Apparatus" for the library, providing scholarly context before you dive into specific mentions.</p>
+            <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr) 450px', gap: '3rem', marginTop: '2rem' }}>
+
+                {/* Main Development Log */}
+                <div className="log-list">
+                    <h2 style={{ fontSize: '1.2rem', color: '#888', textTransform: 'uppercase', letterSpacing: '2px', marginBottom: '1.5rem' }}>Development Timeline</h2>
+                    {logs.map((log, idx) => (
+                        <div key={idx} className="glass-panel" style={{ padding: '2rem', marginBottom: '2rem', borderLeft: '5px solid #D4AF37', position: 'relative' }}>
+                            <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+                                <h3 style={{ margin: 0, color: '#D4AF37', fontSize: '1.5rem' }}>{log.title}</h3>
+                                <span style={{ fontSize: '0.9rem', color: '#666', background: 'rgba(0,0,0,0.3)', padding: '0.2rem 0.6rem', borderRadius: '4px' }}>{log.date}</span>
+                            </div>
+                            <p style={{ margin: '1.5rem 0', lineHeight: '1.7', fontSize: '1.05rem', color: '#F4EBD0' }}>{log.content}</p>
+                            <div style={{ display: 'flex', gap: '0.75rem' }}>
+                                {log.tags.map(tag => (
+                                    <span key={tag} className="status-badge" style={{ background: 'rgba(212,175,55,0.1)', color: '#D4AF37', border: '1px solid rgba(212,175,55,0.2)' }}>{tag}</span>
+                                ))}
+                            </div>
+                        </div>
+                    ))}
+                </div>
+
+                {/* Analytical Sidebar Reports */}
+                <aside style={{ display: 'flex', flexDirection: 'column', gap: '2rem' }}>
+
+                    {/* Report: Chemical Synthesis Roadmap */}
+                    <div className="glass-panel" style={{ padding: '2rem', borderTop: '4px solid #00A86B' }}>
+                        <h3 style={{ marginTop: 0, color: '#00A86B' }}>Chemical Synthesis Roadmap</h3>
+                        <div style={{ fontSize: '0.95rem', lineHeight: '1.6', color: '#ccc' }}>
+                            <p><strong>Goal:</strong> Distinguishing 'Vitriol (alchemical)' from 'Ferrous Sulfate (modern)'. Bridge historical theory with material provenance.</p>
+                            <ul style={{ paddingLeft: '1.2rem', marginTop: '1rem', display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
+                                <li>
+                                    <strong style={{ color: '#00A86B' }}>Mining Strategy:</strong> Using LLM extraction from Principe, Newman, and Obrist to identify 'Chemical Syntheses'.
+                                </li>
+                                <li>
+                                    <strong style={{ color: '#00A86B' }}>Automation Suite:</strong> Developing 5 scripts (SubstanceMiner, EquipmentMiner, ProcessMapper, etc.) to refresh the lexicon.
+                                </li>
+                            </ul>
+                        </div>
                     </div>
-                </section>
 
-                {/* Personnel Profiling Report Section */}
-                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37', marginBottom: '2rem' }}>
-                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Report: Personnel Profiling & Synthesis</h2>
-                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
-                        <p><strong>Phase 12 Update:</strong> We have successfully synthesized historical profiles for our top alchemical practitioners.</p>
-                        <ul>
-                            <li><strong>Paracelsus:</strong> 1,621 Mentions (The Core Anchor)</li>
-                            <li><strong>Michael Maier:</strong> 432 Mentions (The Emblem Master)</li>
-                            <li><strong>John Dee:</strong> 287 Mentions (The Royal Mathematician)</li>
-                        </ul>
-                        <p>Our strategy focuses on <strong>Chronological Anchoring</strong> and <strong>Evidence Trails</strong>, ensuring that every claim in the biography is backed by a verbatim quote from our 205-PDF library.</p>
+                    {/* Report: DH & AI Engineering Report */}
+                    <div className="glass-panel" style={{ padding: '2rem', borderTop: '4px solid #D4AF37' }}>
+                        <h3 style={{ marginTop: 0, color: '#D4AF37' }}>DH & AI Engineering Report</h3>
+                        <div style={{ fontSize: '0.95rem', lineHeight: '1.6', color: '#ccc' }}>
+                            <p><strong>Critique:</strong> Transformation from 'Archive' to 'Apparatus'. Successful use of 'Rich Profile' templates to enforce domain-specific data models during mining. Highlighted the role of state management in context engineering.</p>
+                        </div>
                     </div>
-                </section>
 
-                {/* History Section */}
-                <section className="glass-panel" style={{ padding: '2rem' }}>
-                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>V1: History & Learning Journey</h2>
-                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
-                        <h3>The Genesis: From Folders to Coordinates</h3>
-                        <p>AlchemyDB began as a collection of 205 orphaned PDFs. Our first mission was simple: don't lose the files. We built an inventory script to hash, deduplicate, and catalog every document.</p>
-
-                        <h3>The Cognitive Pivot: The Evidence Trail</h3>
-                        <p>The most significant leap in our design logic was the rejection of "Extract and Forget." In Digital Humanities, a name without a source is a hallucination.</p>
-                        <ul>
-                            <li><strong>The Design:</strong> We pivoted to a model where the Document Chunk is the primary unit of truth.</li>
-                            <li><strong>The Logic:</strong> If we can't point to the exact paragraph where a practitioner appears, they don't exist in our Registry.</li>
-                        </ul>
-
-                        <h3>Aesthetic Logic: The "Arcane Modern" Theme</h3>
-                        <p>Parchment and Glass: The use of semitransparent glass panels over dark backgrounds evokes the feeling of looking at a specimen through a microscope.</p>
+                    {/* Report: Study of 'Laboratories of Art' */}
+                    <div className="glass-panel" style={{ padding: '2rem', borderTop: '4px solid #D4AF37' }}>
+                        <h3 style={{ marginTop: 0, color: '#D4AF37' }}>Study: Laboratories of Art</h3>
+                        <div style={{ fontSize: '0.95rem', lineHeight: '1.6', color: '#ccc' }}>
+                            <p><strong>Learning:</strong> Shared material culture between alchemists and artisans (Uffizi, Casino di San Marco). Integrated 21 entries focusing on the 'Technics of Transformation'.</p>
+                        </div>
                     </div>
-                </section>
-
-                {/* Multimedia Dictionary Concept Section */}
-                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37' }}>
-                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Multimedia Dictionary Concept</h2>
-                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
-                        <p>Our vision is to transform AlchemyDB into a <strong>Beautiful Multimedia Dictionary</strong>. This isn't just a list of words; it's a living archive of the Hermetic tradition.</p>
-
-                        <h4>The Lexicon Phase</h4>
-                        <p>We've implemented a seed of 500 terms. Every term is hyperlinked to its <strong>Evidence Trail</strong> (mentions across the 205 PDFs). Soon, these will expand into:</p>
-                        <ul>
-                            <li><strong>Interactive Biographies:</strong> Detailed life stories of alchemists like Paracelsus or Jabir.</li>
-                            <li><strong>Textual Summaries:</strong> Deep dives into manuscripts like the <em>Splendor Solis</em>.</li>
-                            <li><strong>Spatial Atlas:</strong> Maps showing the geographic flow of alchemical knowledge.</li>
-                        </ul>
-
-                        <h4>How to Explore</h4>
-                        <p>Use the <strong>LEXICON</strong> tab to search for substances, symbols, or practitioners. Watch for the 'MENTIONS' count—this shows you the term's "semantic weight" in your current library.</p>
-                    </div>
-                </section>
-
-                {/* Instructions Section */}
-                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37' }}>
-                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Narrative System Instructions</h2>
-                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
-                        <p>As a user or tester, your goal is not just to "search" but to "curate."</p>
-
-                        <h4>1. The Discovery Dashboard</h4>
-                        <p>The <strong>Library Table</strong> is your bird's-eye view. The <strong>Specimen Drawer</strong> is your active research desk where "Probabilities" appear.</p>
-
-                        <h4>2. Working with Candidates</h4>
-                        <p>Verify the <strong>Direct Quote</strong>. Does the text actually support the claim? Trace the <code>document_id</code> back to the source tradition.</p>
-
-                        <h4>3. Storytelling with Data</h4>
-                        <p>Look for <strong>Cross-Pollination</strong>. Find how an author like Agrippa citations earlier thinkers like Masha'allah. Find the secret protagonists of your study.</p>
-                    </div>
-                </section>
-
+                </aside>
             </div>
         </div>
     );

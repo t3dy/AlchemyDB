@@ -3,6 +3,8 @@ import Discovery from './Discovery'
 import ProjectLog from './ProjectLog'
 import LexiconView from './LexiconView'
 import BiographyDetail from './BiographyDetail'
+import LibraryView from './LibraryView'
+import WhosWhoView from './WhosWhoView'
 import './App.css'
 
 function App() {
@@ -15,14 +17,18 @@ function App() {
           </div>
           <nav style={{ display: 'flex', gap: '2rem' }}>
             <Link to="/" className="nav-link">DISCOVERY</Link>
+            <Link to="/library" className="nav-link">LIBRARY</Link>
             <Link to="/lexicon" className="nav-link">LEXICON</Link>
+            <Link to="/whos-who" className="nav-link">WHO'S WHO</Link>
             <Link to="/docs" className="nav-link">PROJECT LOG</Link>
           </nav>
         </header>
 
         <Routes>
           <Route path="/" element={<Discovery />} />
+          <Route path="/library" element={<LibraryView />} />
           <Route path="/lexicon" element={<LexiconView />} />
+          <Route path="/whos-who" element={<WhosWhoView />} />
           <Route path="/biography/:entityId" element={<BiographyDetail />} />
           <Route path="/docs" element={<ProjectLog />} />
         </Routes>
