@@ -1,0 +1,16 @@
+# Data and Output
+data/*
+exports/*
+logs/*
+pdf/
+
+# Python
+pycache/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database
+*.db
+*.sqlite
