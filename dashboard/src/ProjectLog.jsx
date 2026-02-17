@@ -24,6 +24,25 @@ function ProjectLog() {
                     </div>
                 </section>
 
+                {/* Multimedia Dictionary Concept Section */}
+                <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37' }}>
+                    <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Multimedia Dictionary Concept</h2>
+                    <div className="log-content" style={{ lineHeight: '1.6', color: '#F4EBD0' }}>
+                        <p>Our vision is to transform AlchemyDB into a <strong>Beautiful Multimedia Dictionary</strong>. This isn't just a list of words; it's a living archive of the Hermetic tradition.</p>
+
+                        <h4>The Lexicon Phase</h4>
+                        <p>We've implemented a seed of 500 terms. Every term is hyperlinked to its <strong>Evidence Trail</strong> (mentions across the 205 PDFs). Soon, these will expand into:</p>
+                        <ul>
+                            <li><strong>Interactive Biographies:</strong> Detailed life stories of alchemists like Paracelsus or Jabir.</li>
+                            <li><strong>Textual Summaries:</strong> Deep dives into manuscripts like the <em>Splendor Solis</em>.</li>
+                            <li><strong>Spatial Atlas:</strong> Maps showing the geographic flow of alchemical knowledge.</li>
+                        </ul>
+
+                        <h4>How to Explore</h4>
+                        <p>Use the <strong>LEXICON</strong> tab to search for substances, symbols, or practitioners. Watch for the 'MENTIONS' count—this shows you the term's "semantic weight" in your current library.</p>
+                    </div>
+                </section>
+
                 {/* Instructions Section */}
                 <section className="glass-panel" style={{ padding: '2rem', borderLeft: '4px solid #D4AF37' }}>
                     <h2 style={{ color: '#D4AF37', borderBottom: '1px solid rgba(212, 175, 55, 0.3)', paddingBottom: '0.5rem' }}>Narrative System Instructions</h2>

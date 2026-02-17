@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom'
 import Discovery from './Discovery'
 import ProjectLog from './ProjectLog'
+import LexiconView from './LexiconView'
 import './App.css'
 
 function App() {
@@ -13,12 +14,14 @@ function App() {
           </div>
           <nav style={{ display: 'flex', gap: '2rem' }}>
             <Link to="/" className="nav-link">DISCOVERY</Link>
+            <Link to="/lexicon" className="nav-link">LEXICON</Link>
             <Link to="/docs" className="nav-link">PROJECT LOG</Link>
           </nav>
         </header>
 
         <Routes>
           <Route path="/" element={<Discovery />} />
+          <Route path="/lexicon" element={<LexiconView />} />
           <Route path="/docs" element={<ProjectLog />} />
         </Routes>
       </div>

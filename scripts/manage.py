@@ -5,6 +5,7 @@ from scripts.db import init_db
 from scripts.ingest_documents import ingest_documents
 from scripts.export_data import export_to_json
 from scripts.extract_text import extract_and_chunk
+from scripts.mine_broad import mine_broad
 
 def print_config():
     """Load and print the effective configuration."""
@@ -51,6 +52,15 @@ def run_extraction():
         print(f"Extraction failed: {e}")
         sys.exit(1)
 
+def run_mining():
+    """Perform broad lexicon-based mining."""
+    try:
+        config = load_config()
+        mine_broad(config)
+    except Exception as e:
+        print(f"Mining failed: {e}")
+        sys.exit(1)
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: python manage.py [command]")
@@ -59,6 +69,7 @@ def main():
         print("  init-db         Initialize the database with migrations")
         print("  ingest          Scan corpus and inventory documents")
         print("  extract         Extract text and chunk documents")
+        print("  mine            Perform broad alchemical mining")
         print("  export          Export metadata to JSON for frontend")
         sys.exit(1)
 
@@ -72,6 +83,8 @@ def main():
         run_ingestion()
     elif command == "extract":
         run_extraction()
+    elif command == "mine":
+        run_mining()
     elif command == "export":
         run_export()
     else:

@@ -8,6 +8,7 @@ def export_to_json(config):
     output_path = Path(config.exports_path) / "docs.json"
     candidates_path = Path(config.exports_path) / "candidates.json"
     lexicon_path = Path(config.exports_path) / "lexicon.json"
+    atlas_path = Path(config.exports_path) / "atlas.json"
     
     # Ensure exports directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -36,9 +37,28 @@ def export_to_json(config):
         """)
         candidates = cursor.fetchall()
 
-        # 3. Export Lexicon
-        cursor.execute("SELECT term, definition, is_verified FROM lexicon")
+        # 3. Export Lexicon (The Dictionary Entries)
+        cursor.execute("""
+            SELECT l.term, l.definition, l.is_verified, 
+                   (SELECT COUNT(*) FROM entity_mentions em 
+                    JOIN entities e ON em.entity_id = e.id 
+                    WHERE e.name = l.term) as mention_count
+            FROM lexicon l
+            ORDER BY mention_count DESC
+        """)
         lexicon = cursor.fetchall()
+        
+        # 4. Export "Atlas" (Highly cited entities for the Map/Bio vision)
+        cursor.execute("""
+            SELECT e.id, e.name, e.entity_type, e.description,
+                   COUNT(em.id) as freq
+            FROM entities e
+            JOIN entity_mentions em ON e.id = em.entity_id
+            GROUP BY e.id
+            HAVING freq > 5
+            ORDER BY freq DESC
+        """)
+        atlas = cursor.fetchall()
 
     with open(output_path, "w") as f:
         json.dump(documents, f, indent=2)
@@ -48,6 +68,9 @@ def export_to_json(config):
 
     with open(lexicon_path, "w") as f:
         json.dump(lexicon, f, indent=2)
+        
+    with open(atlas_path, "w") as f:
+        json.dump(atlas, f, indent=2)
     
     print(f"Exported {len(documents)} documents to {output_path}")
     print(f"Exported {len(candidates)} candidates to {candidates_path}")
