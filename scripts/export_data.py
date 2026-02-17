@@ -7,6 +7,7 @@ def export_to_json(config):
     db = Database(config.db_path)
     output_path = Path(config.exports_path) / "docs.json"
     candidates_path = Path(config.exports_path) / "candidates.json"
+    lexicon_path = Path(config.exports_path) / "lexicon.json"
     
     # Ensure exports directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -35,14 +36,22 @@ def export_to_json(config):
         """)
         candidates = cursor.fetchall()
 
+        # 3. Export Lexicon
+        cursor.execute("SELECT term, definition, is_verified FROM lexicon")
+        lexicon = cursor.fetchall()
+
     with open(output_path, "w") as f:
         json.dump(documents, f, indent=2)
 
     with open(candidates_path, "w") as f:
         json.dump(candidates, f, indent=2)
+
+    with open(lexicon_path, "w") as f:
+        json.dump(lexicon, f, indent=2)
     
     print(f"Exported {len(documents)} documents to {output_path}")
     print(f"Exported {len(candidates)} candidates to {candidates_path}")
+    print(f"Exported {len(lexicon)} lexicon terms to {lexicon_path}")
 
 def sqlite3_row_factory(cursor, row):
     d = {}
