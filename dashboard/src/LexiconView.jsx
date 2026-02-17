@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import lexiconData from './data/lexicon.json'
 import biographiesData from './data/biographies.json'
 import candidatesData from './data/candidates.json'
 
@@ -10,12 +9,25 @@ function LexiconView() {
     const [candidates, setCandidates] = useState([])
     const [searchTerm, setSearchTerm] = useState('')
     const [activeCategory, setActiveCategory] = useState('All')
+    const [loading, setLoading] = useState(true)
 
     useEffect(() => {
-        setLexicon(lexiconData)
+        // Fetch lexicon from public folder (exported from database)
+        fetch('/AlchemyDB/lexicon.json')
+            .then(res => res.json())
+            .then(data => {
+                setLexicon(data)
+                setLoading(false)
+            })
+            .catch(err => {
+                console.error('Error loading lexicon:', err)
+                setLoading(false)
+            })
+
         setBiographies(biographiesData)
         setCandidates(candidatesData)
     }, [])
+
 
     const categories = ['All', 'Practitioner', 'Text', 'Substance', 'Allegory', 'Apparatus']
 
