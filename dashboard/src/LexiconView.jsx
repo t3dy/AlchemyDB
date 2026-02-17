@@ -26,6 +26,16 @@ function LexiconView() {
         return matchesSearch && matchesCategory
     })
 
+    // Track expanded state for all items
+    const [expandedItems, setExpandedItems] = useState({})
+
+    const toggleExpanded = (idx) => {
+        setExpandedItems(prev => ({
+            ...prev,
+            [idx]: !prev[idx]
+        }))
+    }
+
     // Helper to find entity ID for a term
     const getEntityId = (term) => {
         const candidate = candidates.find(c => c.name.toLowerCase() === term.toLowerCase())
@@ -87,11 +97,9 @@ function LexiconView() {
                     const entityId = getEntityId(item.term)
                     const bioAvailable = hasBiography(item.term)
                     // Use theoretical_lineage if available, otherwise fallback to definition
-                    // If theoretical_lineage contains the ## Term header, we might want to strip it or just render it.
-                    // The backend stores "## Term\n... content".
                     const fullContent = item.theoretical_lineage || item.definition || "No details available."
                     const isLong = fullContent.length > 300
-                    const [expanded, setExpanded] = useState(false)
+                    const expanded = expandedItems[idx] || false
 
                     return (
                         <div key={idx} className="glass-panel" style={{
@@ -127,7 +135,7 @@ function LexiconView() {
                                 </div>
                                 {isLong && (
                                     <button
-                                        onClick={() => setExpanded(!expanded)}
+                                        onClick={() => toggleExpanded(idx)}
                                         style={{ marginTop: '0.5rem', background: 'none', border: 'none', color: '#D4AF37', cursor: 'pointer', fontSize: '0.8rem' }}
                                     >
                                         {expanded ? "Show Less" : "Read Full Entry"}
