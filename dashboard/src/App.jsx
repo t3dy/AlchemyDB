@@ -18,7 +18,7 @@ function App() {
           <nav style={{ display: 'flex', gap: '2rem' }}>
             <Link to="/" className="nav-link">DISCOVERY</Link>
             <Link to="/library" className="nav-link">LIBRARY</Link>
-            <Link to="/lexicon" className="nav-link">LEXICON</Link>
+            <Link to="/lexicon" className="nav-link">DICTIONARY</Link>
             <Link to="/whos-who" className="nav-link">WHO'S WHO</Link>
             <Link to="/docs" className="nav-link">PROJECT LOG</Link>
           </nav>

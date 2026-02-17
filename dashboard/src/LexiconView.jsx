@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import lexiconData from './data/lexicon.json'
-import biographiesData from './data/biographies.json'
-import candidatesData from './data/candidates.json'
+import lexiconData from '../exports/lexicon.json'
+import biographiesData from '../exports/biographies.json'
+import candidatesData from '../exports/candidates.json'
 
 function LexiconView() {
     const [lexicon, setLexicon] = useState([])
@@ -43,7 +43,7 @@ function LexiconView() {
             <header className="glass-panel" style={{ marginBottom: '2rem', display: 'flex', gap: '1rem', alignItems: 'center', flexWrap: 'wrap' }}>
                 <input
                     type="text"
-                    placeholder="Filter Lexicon..."
+                    placeholder="Filter Dictionary..."
                     className="search-input"
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
@@ -80,12 +80,18 @@ function LexiconView() {
 
             <div className="lexicon-grid" style={{
                 display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
+                gridTemplateColumns: 'repeat(auto-fill, minmax(400px, 1fr))',
                 gap: '1.5rem'
             }}>
                 {filteredLexicon.map((item, idx) => {
                     const entityId = getEntityId(item.term)
                     const bioAvailable = hasBiography(item.term)
+                    // Use theoretical_lineage if available, otherwise fallback to definition
+                    // If theoretical_lineage contains the ## Term header, we might want to strip it or just render it.
+                    // The backend stores "## Term\n... content".
+                    const fullContent = item.theoretical_lineage || item.definition || "No details available."
+                    const isLong = fullContent.length > 300
+                    const [expanded, setExpanded] = useState(false)
 
                     return (
                         <div key={idx} className="glass-panel" style={{
@@ -110,13 +116,27 @@ function LexiconView() {
                                         </span>
                                     )}
                                 </div>
-                                <p style={{ fontSize: '0.9rem', lineHeight: '1.5', color: '#F4EBD0', opacity: 0.9 }}>
-                                    {item.definition.replace(/\[.*?\] /, '')}
-                                </p>
+                                <div style={{ fontSize: '0.9rem', lineHeight: '1.6', color: '#F4EBD0', opacity: 0.9, whiteSpace: 'pre-wrap', maxHeight: expanded ? 'none' : '200px', overflow: 'hidden', textOverflow: 'ellipsis' }}>
+                                    {/* Simple Markdown-ish rendering: replace ## with H4 style, * with bullet */}
+                                    {fullContent.split('\n').map((line, i) => {
+                                        if (line.startsWith('## ')) return <h4 key={i} style={{ color: '#D4AF37', marginTop: '1rem' }}>{line.replace('## ', '')}</h4>
+                                        if (line.startsWith('### ')) return <h5 key={i} style={{ color: '#C0C0C0', marginTop: '0.5rem', textTransform: 'uppercase' }}>{line.replace('### ', '')}</h5>
+                                        if (line.startsWith('**Category**:')) return <div key={i} style={{ fontSize: '0.8rem', color: '#888', marginBottom: '0.5rem' }}>{line}</div>
+                                        return <div key={i}>{line}</div>
+                                    })}
+                                </div>
+                                {isLong && (
+                                    <button
+                                        onClick={() => setExpanded(!expanded)}
+                                        style={{ marginTop: '0.5rem', background: 'none', border: 'none', color: '#D4AF37', cursor: 'pointer', fontSize: '0.8rem' }}
+                                    >
+                                        {expanded ? "Show Less" : "Read Full Entry"}
+                                    </button>
+                                )}
                             </div>
                             <div style={{ marginTop: '1rem', paddingTop: '1rem', borderTop: '1px solid rgba(255,255,255,0.05)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                                 <span style={{ fontSize: '0.7rem', color: '#888', fontStyle: 'italic' }}>
-                                    {item.definition.match(/\[(.*?)\]/)?.[1] || 'GENERAL'}
+                                    {item.category || item.definition.match(/\[(.*?)\]/)?.[1] || 'GENERAL'}
                                 </span>
                                 {bioAvailable ? (
                                     <Link to={`/biography/${entityId}`} style={{
