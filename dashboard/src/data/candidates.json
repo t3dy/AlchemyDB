@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Heinrich Cornelius Agrippa",
+    "entity_type": "alchemist",
+    "tradition": "Hermetic",
+    "description": "Author of De occulta philosophia, interested in the theory and practice of alchemy.",
+    "is_verified": 0,
+    "mention_id": 1,
+    "quote": "The study of Agrippa's works confirms his constant interest in the theory and practice of alchemy.",
+    "document_id": 202,
+    "confidence_score": 1.0
+  },
+  {
+    "id": 2,
+    "name": "Masha'allah ibn Athari",
+    "entity_type": "historical_figure",
+    "tradition": "Persian-Jewish",
+    "description": "8th-century astrologer and astronomer, associated with De elementis and Liber de Orbe.",
+    "is_verified": 0,
+    "mention_id": 2,
+    "quote": "The same observation applies to two further fundamental treatises, Avicebron's Fons vitae and Domenico Gundisalvi's De processione mundi (ca. 1160).",
+    "document_id": 205,
+    "confidence_score": 0.8
+  },
+  {
+    "id": 3,
+    "name": "Avicebron (Solomon ibn Gabirol)",
+    "entity_type": "author",
+    "tradition": "Neoplatonic",
+    "description": "Author of Fons vitae, central to 12th-century cosmography.",
+    "is_verified": 0,
+    "mention_id": null,
+    "quote": null,
+    "document_id": null,
+    "confidence_score": null
+  }
+]
