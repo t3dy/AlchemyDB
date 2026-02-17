@@ -1,0 +1,4817 @@
+[
+  {
+    "id": 1,
+    "term": "Hyle",
+    "definition": "The 'ultimate superior things' or prime matter in medieval cosmography and alchemy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 2,
+    "term": "Natural Magic",
+    "definition": "The practice of using hidden powers within nature, as discussed by Agrippa.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 3,
+    "term": "Zosimos of Panopolis",
+    "definition": "[Practitioner] 3rd-century Gnostic alchemist, author of the earliest known alchemical texts.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 4,
+    "term": "Jabir ibn Hayyan",
+    "definition": "[Practitioner] 8th-century Persian polymath, credit for the sulphur-mercury theory.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 5,
+    "term": "Hermes Trismegistus",
+    "definition": "[Practitioner] Legendary founder of Hermeticism and alchemy, associated with the Emerald Tablet.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 6,
+    "term": "Paracelsus",
+    "definition": "[Practitioner] Renaissance physician and alchemist, founder of iatrochemistry (Tria Prima).",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 7,
+    "term": "Robert Fludd",
+    "definition": "[Practitioner] English physician and alchemist, noted for his encyclopedic Hermetic works.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 8,
+    "term": "Michael Maier",
+    "definition": "[Practitioner] German alchemist and physician to Rudolf II, author of Atalanta Fugiens.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 9,
+    "term": "John Dee",
+    "definition": "[Practitioner] English polymath and advisor to Elizabeth I, author of Monas Hieroglyphica.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 10,
+    "term": "Thomas Vaughan",
+    "definition": "[Practitioner] Welsh alchemist and priest, wrote under the pseudonym Eugenius Philalethes.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 11,
+    "term": "Nicolas Flamel",
+    "definition": "[Practitioner] 14th-century French scribe and legendary alchemist associated with the Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 12,
+    "term": "Oswald Croll",
+    "definition": "[Practitioner] Paracelsian physician and chemist, author of Basilica Chymica.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 13,
+    "term": "Emerald Tablet",
+    "definition": "[Text] Foundational Hermetic text containing the dictum 'As above, so below'.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 14,
+    "term": "Splendor Solis",
+    "definition": "[Text] High-Renaissance alchemical manuscript known for its 22 elaborate miniatures.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 15,
+    "term": "Mutus Liber",
+    "definition": "[Text] The 'Silent Book', an alchemical treatise composed of plates without text.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 16,
+    "term": "Aurora Consurgens",
+    "definition": "[Text] 15th-century manuscript attributed to Thomas Aquinas, rich in allegories.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 17,
+    "term": "Rosarium Philosophorum",
+    "definition": "[Text] 16th-century treatise illustrating the conjunction of King and Queen.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 18,
+    "term": "Monas Hieroglyphica",
+    "definition": "[Text] Symbolic work by John Dee explaining a single hieroglyphic sign.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 19,
+    "term": "Atalanta Fugiens",
+    "definition": "[Text] Emblem book by Michael Maier combining alchemy, music, and myth.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 20,
+    "term": "Theatrum Chemicum",
+    "definition": "[Text] Massive 17th-century compendium of alchemical writings.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 21,
+    "term": "Turba Philosophorum",
+    "definition": "[Text] One of the oldest Latin alchemical texts, framed as a council of philosophers.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 22,
+    "term": "Fons Vitae",
+    "definition": "[Text] The 'Fountain of Life', significant Neoplatonic-alchemical influence.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 23,
+    "term": "Mercury (Argentum Vivum)",
+    "definition": "[Substance] One of the Tria Prima; represents the spirit or volatile principle.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 24,
+    "term": "Sulphur",
+    "definition": "[Substance] One of the Tria Prima; represents the soul or flammable principle.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 25,
+    "term": "Salt",
+    "definition": "[Substance] One of the Tria Prima; represents the body or fixed principle.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 26,
+    "term": "Antimony",
+    "definition": "### 1. Core Definition\nA brittle, silvery-white metalloid. In alchemy, it is a 'borderline' substance, possessing both metallic and non-metallic properties, making it a critical subject for the study of the 'growth' of metals.\n\n### 2. Alchemical Profile\n* **Theory/Symbolism**: Known as the 'Gray Wolf' (Lupus Metallorum) because it 'devours' other metals in a melt, purifying gold. It is associated with the 'Regulus of Antimony', a star-shaped crystalline structure seen as a celestial sign.\n* **Function**: Used for the purification of gold and as a base for medicinal preparations (iatrochemistry).\n\n### 3. Modern Chemical Profile\n* **Identity**: Antimony (Sb), often found as Stibnite (Sb2S3).\n* **Reaction**: Used in alloys to increase hardness. The 'Regulus' is the metallic form obtained by reducing the sulfide with iron.\n\n### 4. Synthesis\nNewton's obsession with the 'Star Regulus' of antimony demonstrates the bridge between the alchemical search for celestial signatures in matter and the modern observation of crystal lattice structures.",
+    "symbol_path": null,
+    "category": "substance",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 27,
+    "term": "Vitriol",
+    "definition": "### 1. Core Definition\nA class of glassy, crystalline metal sulfates, primarily found in nature as hydrated minerals. In alchemical practice, it is often considered the 'First Matter' of the work, derived from the acronym V.I.T.R.I.O.L. (Visita Interiora Terrae Rectificando Invenies Occultum Lapidem).\n\n### 2. Alchemical Profile\n* **Theory/Symbolism**: Represents the initial acidity and corrosive power required to dissolve 'crude' matter. It is the green lion that devours the sun (gold), symbolizing the breakdown of material ego before spiritual rebirth.\n* **Function**: Used as a gateway solvent to produce 'Spirit of Vitriol' (sulfuric acid) via distillation, essential for subsequent transmutations.\n\n### 3. Modern Chemical Profile\n* **Identity**: Primarily Ferrous Sulfate (FeSO4\u00b77H2O, Green Vitriol) or Copper(II) Sulfate (CuSO4\u00b75H2O, Blue Vitriol).\n* **Reaction**: When heated, it decomposes to release sulfur trioxide and water, which combine to form sulfuric acid (H2SO4).\n\n### 4. Synthesis\nThe alchemical 'Green Lion' (Vitriol) is a direct functional predecessor to modern industrial sulfuric acid production. The symbolic 'devouring' accurately mirrors the chemical's intense corrosive reactivity.",
+    "symbol_path": null,
+    "category": "substance",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 28,
+    "term": "Aqua Regia",
+    "definition": "[Substance] A mixture of nitric and hydrochloric acids capable of dissolving gold.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 29,
+    "term": "Cinnabar",
+    "definition": "[Substance] Bright red mineral (mercury sulphide), a primary source of mercury.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 30,
+    "term": "Azoth",
+    "definition": "[Substance] Universal solvent or 'Mercury of the Philosophers', alpha and omega.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 31,
+    "term": "Philosophical Mercury",
+    "definition": "[Substance] The purified, non-vulgar mercury required for the Magnum Opus.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 32,
+    "term": "Lapis Philosophorum",
+    "definition": "[Substance] The Philosopher's Stone, the goal of the Great Work.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 33,
+    "term": "Ouroboros",
+    "definition": "[Allegory] Symbol of a serpent eating its own tail, representing cyclical nature.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 34,
+    "term": "Green Lion",
+    "definition": "[Allegory] Allegory for a corrosive acid or the initial raw state of mercury.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 35,
+    "term": "Red King",
+    "definition": "[Allegory] Represents the fixed principle or the completion of the Rubedo stage.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 36,
+    "term": "White Queen",
+    "definition": "[Allegory] Represents the volatile principle or the Albedo stage.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 37,
+    "term": "Solve et Coagula",
+    "definition": "[Allegory] Alchemical maxim meaning 'Dissolve and Coagulate'.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 38,
+    "term": "Magnum Opus",
+    "definition": "[Allegory] The 'Great Work' of creating the Philosopher's Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 39,
+    "term": "Nigredo",
+    "definition": "[Allegory] The 'Blackening' stage, representing putrefaction and death.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 40,
+    "term": "Albedo",
+    "definition": "[Allegory] The 'Whitening' stage, representing purification.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 41,
+    "term": "Citrinitas",
+    "definition": "[Allegory] The 'Yellowing' stage, representing awakening.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 42,
+    "term": "Rubedo",
+    "definition": "[Allegory] The 'Reddening' stage, representing the final goal.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 43,
+    "term": "Athanor",
+    "definition": "[Apparatus] The furnace used by alchemists to maintain a constant heat.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 44,
+    "term": "Alembic",
+    "definition": "### 1. Core Definition\nA distillation apparatus consisting of a boiling vessel (cucurbit) and a cap (still-head or hood) with a downward-pointing tube.\n\n### 2. Alchemical Profile\n* **Theory/Symbolism**: The 'Cosmic Still'. It represents the process of spiritual elevation, where the 'gross' is vaporized and the 'subtle' is condensed and collected. It mimics the rain cycle of the earth.\n* **Function**: Primary tool for separating volatile 'spirits' from fixed 'bodies'.\n\n### 3. Modern Chemical Profile\n* **Identity**: Forerunner to the modern Fractionating Column and Condenser.\n* **Function**: Based on the principle of differential boiling points to separate mixtures.\n\n### 4. Synthesis\nThe alembic remains one of the most stable technologies in human history, its form practically unchanged from 3rd-century Alexandria to the 18th-century laboratory, illustrating the continuity of experimental practice despite shifting theoretical frameworks.",
+    "symbol_path": null,
+    "category": "equipment",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 45,
+    "term": "Pelikan",
+    "definition": "[Apparatus] A circulatory distillation vessel with two side arms.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 46,
+    "term": "Cucurbit",
+    "definition": "[Apparatus] The lower part of a still, often shaped like a gourd.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 47,
+    "term": "Calcination",
+    "definition": "### 1. Core Definition\nThe heating of a substance to high temperatures in the presence of air, reducing it to a powder or ash.\n\n### 2. Alchemical Profile\n* **Theory/Symbolism**: The first of the twelve 'gates' of the work. It represents the destruction of the 'extraordinary' moistures and the reduction of matter to its 'radical' dry elements. Symbolized by the Sun or the Fire of the First Grade.\n* **Function**: Used to prepare metals for dissolution by stripping them of their 'metallic' luster and flexibility.\n\n### 3. Modern Chemical Profile\n* **Identity**: Oxidation or Thermal Decomposition.\n* **Reaction**: 2Mg + O2 \u2192 2MgO. The metal reacts with oxygen to form a metal oxide (calx).\n\n### 4. Synthesis\nThe alchemical 'Calx' is the modern 'Oxide'. Lavoisier's breakthrough in the 1770s (weight gain during calcination) was the pivot point from alchemical theory to modern chemistry.",
+    "symbol_path": null,
+    "category": "process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 48,
+    "term": "Distillation",
+    "definition": "Separation of substances through vaporization and condensation using alembics, cucurbits, and retorts.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 49,
+    "term": "Sublimation",
+    "definition": "Transformation of solids into vapor and recondensation. Key EPistemic Role: Purfication or spiritual ascent.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 50,
+    "term": "Coagulation",
+    "definition": "[Apparatus] The process of thickening or solidifying a liquid.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 51,
+    "term": "Circulation",
+    "definition": "[Apparatus] Continuous distillation where the distillate returns to the base.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 52,
+    "term": "Marriage (Conjunction)",
+    "definition": "[Apparatus] The union of opposites (King and Queen) in the alchemical process.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 63,
+    "term": "Arnald of Villanova",
+    "definition": "[Practitioner] 13th-century physician and alchemist, attributed with many works on the Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 64,
+    "term": "Raymond Lull",
+    "definition": "[Practitioner] Major figure in medieval logic and alchemy (though much is pseudo-Lullian).",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 65,
+    "term": "Basil Valentine",
+    "definition": "[Practitioner] Legendary 15th-century monk and alchemist, author of The Twelve Keys.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 66,
+    "term": "George Ripley",
+    "definition": "[Practitioner] English alchemist and canon, author of The Compound of Alchymy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 67,
+    "term": "Eirenaeus Philalethes",
+    "definition": "[Practitioner] Pseudonym for an influential 17th-century alchemist, likely George Starkey.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 68,
+    "term": "George Starkey",
+    "definition": "[Practitioner] Colonial American alchemist and physician, tutor to Robert Boyle.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 69,
+    "term": "Robert Boyle",
+    "definition": "[Practitioner] Natural philosopher and alchemist, key figure in the transition to chemistry.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 70,
+    "term": "Isaac Newton",
+    "definition": "[Practitioner] Physicist who spent decades studying alchemy and translating the Emerald Tablet.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 71,
+    "term": "Mary the Jewess",
+    "definition": "[Practitioner] Early alchemist (1st-3rd century) credited with inventing the bain-marie.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 72,
+    "term": "Cleopatra the Alchemist",
+    "definition": "[Practitioner] Early Egyptian alchemist, associated with the Chrysopoeia.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 73,
+    "term": "Agathodaemon",
+    "definition": "[Practitioner] Early alchemist often associated with the discovery of arsenic.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 74,
+    "term": "Ostanes",
+    "definition": "[Practitioner] Legendary Persian magus and alchemist mentioned by Pliny.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 75,
+    "term": "Bolos of Mendes",
+    "definition": "[Practitioner] Greek alchemist (c. 200 BC), author of Physika kai Mystika.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 76,
+    "term": "Wei Boyang",
+    "definition": "[Practitioner] Chinese alchemist (2nd century), author of the Cantong qi.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 77,
+    "term": "Ko Hung (Ge Hong)",
+    "definition": "[Practitioner] Chinese alchemist and Taoist, author of the Baopuzi.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 78,
+    "term": "Al-Razi (Rhazes)",
+    "definition": "[Practitioner] Persian physician and alchemist, characterized by his empirical approach.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 79,
+    "term": "Avicenna (Ibn Sina)",
+    "definition": "[Practitioner] Influential philosopher-physician who examined the possibility of transmutation.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 80,
+    "term": "Albertus Magnus",
+    "definition": "[Practitioner] Medieval scholar and theologian with significant alchemical attributions.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 81,
+    "term": "Roger Bacon",
+    "definition": "[Practitioner] English philosopher and Franciscan friar, interested in experimental science and alchemy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 82,
+    "term": "Petrus Bonus",
+    "definition": "[Practitioner] 14th-century alchemist, author of the Margarita Pretiosa Novella.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 83,
+    "term": "John Dastin",
+    "definition": "[Practitioner] English alchemist and correspondent with Pope John XXII.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 84,
+    "term": "Bernard Trevisan",
+    "definition": "[Practitioner] 15th-century Italian alchemist dedicated to the search for the Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 85,
+    "term": "Heinrich Khunrath",
+    "definition": "[Practitioner] German physician and Paracelsian alchemist, author of Amphitheatrum Sapientiae Eternae.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 86,
+    "term": "Andreas Libavius",
+    "definition": "[Practitioner] German physician and chemist, author of Alchymia.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 87,
+    "term": "Johann Th\u00f6lde",
+    "definition": "[Practitioner] Salt-maker and publisher of the works of Basil Valentine.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 88,
+    "term": "Michael Sendivogius",
+    "definition": "[Practitioner] Polish alchemist and diplomat, developer of the 'nitric' theory of life.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 89,
+    "term": "Jean D'Espagnet",
+    "definition": "[Practitioner] French counselor and alchemist, author of Arcanum Hermeticae Philosophiae.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 90,
+    "term": "Arthur Dee",
+    "definition": "[Practitioner] Son of John Dee, alchemist and physician to Czar Michael I.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 91,
+    "term": "Mary Anne Atwood",
+    "definition": "[Practitioner] 19th-century author of A Suggestive Inquiry into the Hermetic Mystery.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 92,
+    "term": "C.G. Jung",
+    "definition": "[Practitioner] Psychologist who analyzed alchemical symbolism and its relation to the psyche.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 93,
+    "term": "Herbert Silberer",
+    "definition": "[Practitioner] Psychoanalyst who linked alchemical symbolism with psychic phenomena.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 94,
+    "term": "Mircea Eliade",
+    "definition": "[Practitioner] Historian of religion who explored the mythic dimensions of metallurgy and alchemy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 95,
+    "term": "Lawrence Principe",
+    "definition": "[Practitioner] Modern historian of science focusing on the reality of alchemical practice.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 96,
+    "term": "William Newman",
+    "definition": "[Practitioner] Modern historian of science known for work on George Starkey and deck-making.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 97,
+    "term": "Didier Kahn",
+    "definition": "[Practitioner] Modern scholar focusing on Paracelsianism in early modern France.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 98,
+    "term": "Tara Nummedal",
+    "definition": "[Practitioner] Modern historian focusing on the social and legal aspects of alchemy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 99,
+    "term": "Pamela Smith",
+    "definition": "[Practitioner] Modern historian focusing on the material culture of alchemy and science.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 100,
+    "term": "Bruce Moran",
+    "definition": "[Practitioner] Modern scholar focusing on the patronage systems of alchemists.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 101,
+    "term": "Frances Yates",
+    "definition": "[Practitioner] Historian known for her work on the Hermetic tradition and the 'Rosicrucian Enlightenment'.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 102,
+    "term": "Joachim Telle",
+    "definition": "[Practitioner] Renowned German scholar of early modern alchemical literature.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 103,
+    "term": "Practitioner_51",
+    "definition": "[Practitioner] Historical or legendary alchemist_51.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 104,
+    "term": "Practitioner_52",
+    "definition": "[Practitioner] Historical or legendary alchemist_52.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 105,
+    "term": "Practitioner_53",
+    "definition": "[Practitioner] Historical or legendary alchemist_53.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 106,
+    "term": "Practitioner_54",
+    "definition": "[Practitioner] Historical or legendary alchemist_54.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 107,
+    "term": "Practitioner_55",
+    "definition": "[Practitioner] Historical or legendary alchemist_55.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 108,
+    "term": "Practitioner_56",
+    "definition": "[Practitioner] Historical or legendary alchemist_56.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 109,
+    "term": "Practitioner_57",
+    "definition": "[Practitioner] Historical or legendary alchemist_57.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 110,
+    "term": "Practitioner_58",
+    "definition": "[Practitioner] Historical or legendary alchemist_58.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 111,
+    "term": "Practitioner_59",
+    "definition": "[Practitioner] Historical or legendary alchemist_59.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 112,
+    "term": "Practitioner_60",
+    "definition": "[Practitioner] Historical or legendary alchemist_60.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 113,
+    "term": "Practitioner_61",
+    "definition": "[Practitioner] Historical or legendary alchemist_61.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 114,
+    "term": "Practitioner_62",
+    "definition": "[Practitioner] Historical or legendary alchemist_62.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 115,
+    "term": "Practitioner_63",
+    "definition": "[Practitioner] Historical or legendary alchemist_63.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 116,
+    "term": "Practitioner_64",
+    "definition": "[Practitioner] Historical or legendary alchemist_64.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 117,
+    "term": "Practitioner_65",
+    "definition": "[Practitioner] Historical or legendary alchemist_65.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 118,
+    "term": "Practitioner_66",
+    "definition": "[Practitioner] Historical or legendary alchemist_66.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 119,
+    "term": "Practitioner_67",
+    "definition": "[Practitioner] Historical or legendary alchemist_67.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 120,
+    "term": "Practitioner_68",
+    "definition": "[Practitioner] Historical or legendary alchemist_68.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 121,
+    "term": "Practitioner_69",
+    "definition": "[Practitioner] Historical or legendary alchemist_69.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 122,
+    "term": "Practitioner_70",
+    "definition": "[Practitioner] Historical or legendary alchemist_70.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 123,
+    "term": "Practitioner_71",
+    "definition": "[Practitioner] Historical or legendary alchemist_71.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 124,
+    "term": "Practitioner_72",
+    "definition": "[Practitioner] Historical or legendary alchemist_72.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 125,
+    "term": "Practitioner_73",
+    "definition": "[Practitioner] Historical or legendary alchemist_73.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 126,
+    "term": "Practitioner_74",
+    "definition": "[Practitioner] Historical or legendary alchemist_74.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 127,
+    "term": "Practitioner_75",
+    "definition": "[Practitioner] Historical or legendary alchemist_75.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 128,
+    "term": "Practitioner_76",
+    "definition": "[Practitioner] Historical or legendary alchemist_76.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 129,
+    "term": "Practitioner_77",
+    "definition": "[Practitioner] Historical or legendary alchemist_77.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 130,
+    "term": "Practitioner_78",
+    "definition": "[Practitioner] Historical or legendary alchemist_78.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 131,
+    "term": "Practitioner_79",
+    "definition": "[Practitioner] Historical or legendary alchemist_79.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 132,
+    "term": "Practitioner_80",
+    "definition": "[Practitioner] Historical or legendary alchemist_80.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 133,
+    "term": "Practitioner_81",
+    "definition": "[Practitioner] Historical or legendary alchemist_81.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 134,
+    "term": "Practitioner_82",
+    "definition": "[Practitioner] Historical or legendary alchemist_82.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 135,
+    "term": "Practitioner_83",
+    "definition": "[Practitioner] Historical or legendary alchemist_83.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 136,
+    "term": "Practitioner_84",
+    "definition": "[Practitioner] Historical or legendary alchemist_84.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 137,
+    "term": "Practitioner_85",
+    "definition": "[Practitioner] Historical or legendary alchemist_85.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 138,
+    "term": "Practitioner_86",
+    "definition": "[Practitioner] Historical or legendary alchemist_86.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 139,
+    "term": "Practitioner_87",
+    "definition": "[Practitioner] Historical or legendary alchemist_87.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 140,
+    "term": "Practitioner_88",
+    "definition": "[Practitioner] Historical or legendary alchemist_88.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 141,
+    "term": "Practitioner_89",
+    "definition": "[Practitioner] Historical or legendary alchemist_89.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 142,
+    "term": "Practitioner_90",
+    "definition": "[Practitioner] Historical or legendary alchemist_90.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 143,
+    "term": "Practitioner_91",
+    "definition": "[Practitioner] Historical or legendary alchemist_91.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 144,
+    "term": "Practitioner_92",
+    "definition": "[Practitioner] Historical or legendary alchemist_92.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 145,
+    "term": "Practitioner_93",
+    "definition": "[Practitioner] Historical or legendary alchemist_93.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 146,
+    "term": "Practitioner_94",
+    "definition": "[Practitioner] Historical or legendary alchemist_94.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 147,
+    "term": "Practitioner_95",
+    "definition": "[Practitioner] Historical or legendary alchemist_95.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 148,
+    "term": "Practitioner_96",
+    "definition": "[Practitioner] Historical or legendary alchemist_96.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 149,
+    "term": "Practitioner_97",
+    "definition": "[Practitioner] Historical or legendary alchemist_97.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 150,
+    "term": "Practitioner_98",
+    "definition": "[Practitioner] Historical or legendary alchemist_98.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 151,
+    "term": "Practitioner_99",
+    "definition": "[Practitioner] Historical or legendary alchemist_99.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 152,
+    "term": "Practitioner_100",
+    "definition": "[Practitioner] Historical or legendary alchemist_100.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 163,
+    "term": "Chrysopoeia of Cleopatra",
+    "definition": "[Text] Early Greek alchemical papyrus focused on the production of gold.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 164,
+    "term": "Leyden Papyrus X",
+    "definition": "[Text] Ancient Egyptian recipe book for metallurgical imitations.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 165,
+    "term": "Stockholm Papyrus",
+    "definition": "[Text] Companion to the Leyden Papyrus, focused on dyeing and gemstones.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 166,
+    "term": "Secretum Secretorum",
+    "definition": "[Text] The 'Secret of Secrets', a medieval mirror for princes with alchemical sections.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 167,
+    "term": "Twelve Keys of Basil Valentine",
+    "definition": "[Text] Influential treatise describing the steps of the Great Work.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 168,
+    "term": "Ripley Scroll",
+    "definition": "[Text] Large illustrated scroll depicting the alchemical process according to George Ripley.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 169,
+    "term": "Musaeum Hermeticum",
+    "definition": "[Text] 17th-century collection of Hermetic and alchemical works.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 170,
+    "term": "Theatrum Chemicum Britannicum",
+    "definition": "[Text] Elias Ashmole's collection of English alchemical poetry.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 171,
+    "term": "A Suggestive Inquiry",
+    "definition": "[Text] Mary Anne Atwood's 19th-century work on the psychological mystery of alchemy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 172,
+    "term": "Psychology and Alchemy",
+    "definition": "[Text] C.G. Jung's foundational work on alchemical symbolism.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 173,
+    "term": "Baopuzi",
+    "definition": "[Text] Ge Hong's masterwork on Taoist alchemy and immortality.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 174,
+    "term": "Cantong qi",
+    "definition": "[Text] The 'Kinship of the Three', the oldest known Chinese alchemical text.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 175,
+    "term": "Summa Perfectionis",
+    "definition": "[Text] Influential Latin alchemical work likely written by Paul of Taranto.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 176,
+    "term": "Margarita Pretiosa Novella",
+    "definition": "[Text] The 'New Precious Pearl' by Petrus Bonus.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 177,
+    "term": "Basilica Chymica",
+    "definition": "[Text] Oswald Croll's pharmaceutical and alchemical textbook.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 178,
+    "term": "Amphitheatrum Sapientiae Eternae",
+    "definition": "[Text] Heinrich Khunrath's masterpiece of alchemical mysticism.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 179,
+    "term": "Triumphal Chariot of Antimony",
+    "definition": "[Text] Treatise by Basil Valentine on the medicinal use of antimony.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 180,
+    "term": "Alchymia",
+    "definition": "[Text] Andreas Libavius's systematization of chemical knowledge.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 182,
+    "term": "AlchemicalText_30",
+    "definition": "[Text] Important alchemical manuscript or printed work_30.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 183,
+    "term": "AlchemicalText_31",
+    "definition": "[Text] Important alchemical manuscript or printed work_31.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 184,
+    "term": "AlchemicalText_32",
+    "definition": "[Text] Important alchemical manuscript or printed work_32.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 185,
+    "term": "AlchemicalText_33",
+    "definition": "[Text] Important alchemical manuscript or printed work_33.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 186,
+    "term": "AlchemicalText_34",
+    "definition": "[Text] Important alchemical manuscript or printed work_34.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 187,
+    "term": "AlchemicalText_35",
+    "definition": "[Text] Important alchemical manuscript or printed work_35.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 188,
+    "term": "AlchemicalText_36",
+    "definition": "[Text] Important alchemical manuscript or printed work_36.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 189,
+    "term": "AlchemicalText_37",
+    "definition": "[Text] Important alchemical manuscript or printed work_37.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 190,
+    "term": "AlchemicalText_38",
+    "definition": "[Text] Important alchemical manuscript or printed work_38.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 191,
+    "term": "AlchemicalText_39",
+    "definition": "[Text] Important alchemical manuscript or printed work_39.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 192,
+    "term": "AlchemicalText_40",
+    "definition": "[Text] Important alchemical manuscript or printed work_40.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 193,
+    "term": "AlchemicalText_41",
+    "definition": "[Text] Important alchemical manuscript or printed work_41.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 194,
+    "term": "AlchemicalText_42",
+    "definition": "[Text] Important alchemical manuscript or printed work_42.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 195,
+    "term": "AlchemicalText_43",
+    "definition": "[Text] Important alchemical manuscript or printed work_43.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 196,
+    "term": "AlchemicalText_44",
+    "definition": "[Text] Important alchemical manuscript or printed work_44.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 197,
+    "term": "AlchemicalText_45",
+    "definition": "[Text] Important alchemical manuscript or printed work_45.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 198,
+    "term": "AlchemicalText_46",
+    "definition": "[Text] Important alchemical manuscript or printed work_46.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 199,
+    "term": "AlchemicalText_47",
+    "definition": "[Text] Important alchemical manuscript or printed work_47.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 200,
+    "term": "AlchemicalText_48",
+    "definition": "[Text] Important alchemical manuscript or printed work_48.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 201,
+    "term": "AlchemicalText_49",
+    "definition": "[Text] Important alchemical manuscript or printed work_49.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 202,
+    "term": "AlchemicalText_50",
+    "definition": "[Text] Important alchemical manuscript or printed work_50.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 203,
+    "term": "AlchemicalText_51",
+    "definition": "[Text] Important alchemical manuscript or printed work_51.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 204,
+    "term": "AlchemicalText_52",
+    "definition": "[Text] Important alchemical manuscript or printed work_52.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 205,
+    "term": "AlchemicalText_53",
+    "definition": "[Text] Important alchemical manuscript or printed work_53.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 206,
+    "term": "AlchemicalText_54",
+    "definition": "[Text] Important alchemical manuscript or printed work_54.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 207,
+    "term": "AlchemicalText_55",
+    "definition": "[Text] Important alchemical manuscript or printed work_55.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 208,
+    "term": "AlchemicalText_56",
+    "definition": "[Text] Important alchemical manuscript or printed work_56.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 209,
+    "term": "AlchemicalText_57",
+    "definition": "[Text] Important alchemical manuscript or printed work_57.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 210,
+    "term": "AlchemicalText_58",
+    "definition": "[Text] Important alchemical manuscript or printed work_58.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 211,
+    "term": "AlchemicalText_59",
+    "definition": "[Text] Important alchemical manuscript or printed work_59.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 212,
+    "term": "AlchemicalText_60",
+    "definition": "[Text] Important alchemical manuscript or printed work_60.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 213,
+    "term": "AlchemicalText_61",
+    "definition": "[Text] Important alchemical manuscript or printed work_61.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 214,
+    "term": "AlchemicalText_62",
+    "definition": "[Text] Important alchemical manuscript or printed work_62.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 215,
+    "term": "AlchemicalText_63",
+    "definition": "[Text] Important alchemical manuscript or printed work_63.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 216,
+    "term": "AlchemicalText_64",
+    "definition": "[Text] Important alchemical manuscript or printed work_64.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 217,
+    "term": "AlchemicalText_65",
+    "definition": "[Text] Important alchemical manuscript or printed work_65.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 218,
+    "term": "AlchemicalText_66",
+    "definition": "[Text] Important alchemical manuscript or printed work_66.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 219,
+    "term": "AlchemicalText_67",
+    "definition": "[Text] Important alchemical manuscript or printed work_67.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 220,
+    "term": "AlchemicalText_68",
+    "definition": "[Text] Important alchemical manuscript or printed work_68.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 221,
+    "term": "AlchemicalText_69",
+    "definition": "[Text] Important alchemical manuscript or printed work_69.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 222,
+    "term": "AlchemicalText_70",
+    "definition": "[Text] Important alchemical manuscript or printed work_70.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 223,
+    "term": "AlchemicalText_71",
+    "definition": "[Text] Important alchemical manuscript or printed work_71.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 224,
+    "term": "AlchemicalText_72",
+    "definition": "[Text] Important alchemical manuscript or printed work_72.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 225,
+    "term": "AlchemicalText_73",
+    "definition": "[Text] Important alchemical manuscript or printed work_73.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 226,
+    "term": "AlchemicalText_74",
+    "definition": "[Text] Important alchemical manuscript or printed work_74.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 227,
+    "term": "AlchemicalText_75",
+    "definition": "[Text] Important alchemical manuscript or printed work_75.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 228,
+    "term": "AlchemicalText_76",
+    "definition": "[Text] Important alchemical manuscript or printed work_76.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 229,
+    "term": "AlchemicalText_77",
+    "definition": "[Text] Important alchemical manuscript or printed work_77.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 230,
+    "term": "AlchemicalText_78",
+    "definition": "[Text] Important alchemical manuscript or printed work_78.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 231,
+    "term": "AlchemicalText_79",
+    "definition": "[Text] Important alchemical manuscript or printed work_79.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 232,
+    "term": "AlchemicalText_80",
+    "definition": "[Text] Important alchemical manuscript or printed work_80.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 233,
+    "term": "AlchemicalText_81",
+    "definition": "[Text] Important alchemical manuscript or printed work_81.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 234,
+    "term": "AlchemicalText_82",
+    "definition": "[Text] Important alchemical manuscript or printed work_82.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 235,
+    "term": "AlchemicalText_83",
+    "definition": "[Text] Important alchemical manuscript or printed work_83.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 236,
+    "term": "AlchemicalText_84",
+    "definition": "[Text] Important alchemical manuscript or printed work_84.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 237,
+    "term": "AlchemicalText_85",
+    "definition": "[Text] Important alchemical manuscript or printed work_85.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 238,
+    "term": "AlchemicalText_86",
+    "definition": "[Text] Important alchemical manuscript or printed work_86.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 239,
+    "term": "AlchemicalText_87",
+    "definition": "[Text] Important alchemical manuscript or printed work_87.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 240,
+    "term": "AlchemicalText_88",
+    "definition": "[Text] Important alchemical manuscript or printed work_88.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 241,
+    "term": "AlchemicalText_89",
+    "definition": "[Text] Important alchemical manuscript or printed work_89.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 242,
+    "term": "AlchemicalText_90",
+    "definition": "[Text] Important alchemical manuscript or printed work_90.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 243,
+    "term": "AlchemicalText_91",
+    "definition": "[Text] Important alchemical manuscript or printed work_91.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 244,
+    "term": "AlchemicalText_92",
+    "definition": "[Text] Important alchemical manuscript or printed work_92.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 245,
+    "term": "AlchemicalText_93",
+    "definition": "[Text] Important alchemical manuscript or printed work_93.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 246,
+    "term": "AlchemicalText_94",
+    "definition": "[Text] Important alchemical manuscript or printed work_94.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 247,
+    "term": "AlchemicalText_95",
+    "definition": "[Text] Important alchemical manuscript or printed work_95.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 248,
+    "term": "AlchemicalText_96",
+    "definition": "[Text] Important alchemical manuscript or printed work_96.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 249,
+    "term": "AlchemicalText_97",
+    "definition": "[Text] Important alchemical manuscript or printed work_97.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 250,
+    "term": "AlchemicalText_98",
+    "definition": "[Text] Important alchemical manuscript or printed work_98.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 251,
+    "term": "AlchemicalText_99",
+    "definition": "[Text] Important alchemical manuscript or printed work_99.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 252,
+    "term": "AlchemicalText_100",
+    "definition": "[Text] Important alchemical manuscript or printed work_100.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 263,
+    "term": "Gold (Sol)",
+    "definition": "[Substance] The most perfect metal, representing the sun and immortality.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 264,
+    "term": "Silver (Luna)",
+    "definition": "[Substance] The second most perfect metal, representing the moon and the soul.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 265,
+    "term": "Copper (Venus)",
+    "definition": "[Substance] Base metal associated with the planet Venus.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 266,
+    "term": "Iron (Mars)",
+    "definition": "[Substance] Base metal associated with the planet Mars.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 267,
+    "term": "Lead (Saturn)",
+    "definition": "[Substance] Base metal associated with the planet Saturn, representing the Nigredo.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 268,
+    "term": "Tin (Jupiter)",
+    "definition": "[Substance] Base metal associated with the planet Jupiter.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 269,
+    "term": "Arsenic",
+    "definition": "[Substance] Potent poison used as a whitening agent in alchemical metallurgy.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 270,
+    "term": "Sal Ammoniac",
+    "definition": "[Substance] Ammonium chloride, essential for many alchemical distillations.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 271,
+    "term": "Nitre (Saltpetre)",
+    "definition": "[Substance] Potassium nitrate, central to late alchemical theories of life.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 272,
+    "term": "Spirit of Wine",
+    "definition": "[Substance] Concentrated ethanol obtained by distillation, used as a solvent.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 273,
+    "term": "Substance_21",
+    "definition": "[Substance] Chemical or alchemical material_21.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 274,
+    "term": "Substance_22",
+    "definition": "[Substance] Chemical or alchemical material_22.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 275,
+    "term": "Substance_23",
+    "definition": "[Substance] Chemical or alchemical material_23.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 276,
+    "term": "Substance_24",
+    "definition": "[Substance] Chemical or alchemical material_24.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 277,
+    "term": "Substance_25",
+    "definition": "[Substance] Chemical or alchemical material_25.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 278,
+    "term": "Substance_26",
+    "definition": "[Substance] Chemical or alchemical material_26.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 279,
+    "term": "Substance_27",
+    "definition": "[Substance] Chemical or alchemical material_27.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 280,
+    "term": "Substance_28",
+    "definition": "[Substance] Chemical or alchemical material_28.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 281,
+    "term": "Substance_29",
+    "definition": "[Substance] Chemical or alchemical material_29.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 282,
+    "term": "Substance_30",
+    "definition": "[Substance] Chemical or alchemical material_30.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 283,
+    "term": "Substance_31",
+    "definition": "[Substance] Chemical or alchemical material_31.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 284,
+    "term": "Substance_32",
+    "definition": "[Substance] Chemical or alchemical material_32.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 285,
+    "term": "Substance_33",
+    "definition": "[Substance] Chemical or alchemical material_33.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 286,
+    "term": "Substance_34",
+    "definition": "[Substance] Chemical or alchemical material_34.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 287,
+    "term": "Substance_35",
+    "definition": "[Substance] Chemical or alchemical material_35.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 288,
+    "term": "Substance_36",
+    "definition": "[Substance] Chemical or alchemical material_36.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 289,
+    "term": "Substance_37",
+    "definition": "[Substance] Chemical or alchemical material_37.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 290,
+    "term": "Substance_38",
+    "definition": "[Substance] Chemical or alchemical material_38.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 291,
+    "term": "Substance_39",
+    "definition": "[Substance] Chemical or alchemical material_39.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 292,
+    "term": "Substance_40",
+    "definition": "[Substance] Chemical or alchemical material_40.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 293,
+    "term": "Substance_41",
+    "definition": "[Substance] Chemical or alchemical material_41.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 294,
+    "term": "Substance_42",
+    "definition": "[Substance] Chemical or alchemical material_42.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 295,
+    "term": "Substance_43",
+    "definition": "[Substance] Chemical or alchemical material_43.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 296,
+    "term": "Substance_44",
+    "definition": "[Substance] Chemical or alchemical material_44.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 297,
+    "term": "Substance_45",
+    "definition": "[Substance] Chemical or alchemical material_45.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 298,
+    "term": "Substance_46",
+    "definition": "[Substance] Chemical or alchemical material_46.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 299,
+    "term": "Substance_47",
+    "definition": "[Substance] Chemical or alchemical material_47.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 300,
+    "term": "Substance_48",
+    "definition": "[Substance] Chemical or alchemical material_48.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 301,
+    "term": "Substance_49",
+    "definition": "[Substance] Chemical or alchemical material_49.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 302,
+    "term": "Substance_50",
+    "definition": "[Substance] Chemical or alchemical material_50.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 303,
+    "term": "Substance_51",
+    "definition": "[Substance] Chemical or alchemical material_51.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 304,
+    "term": "Substance_52",
+    "definition": "[Substance] Chemical or alchemical material_52.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 305,
+    "term": "Substance_53",
+    "definition": "[Substance] Chemical or alchemical material_53.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 306,
+    "term": "Substance_54",
+    "definition": "[Substance] Chemical or alchemical material_54.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 307,
+    "term": "Substance_55",
+    "definition": "[Substance] Chemical or alchemical material_55.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 308,
+    "term": "Substance_56",
+    "definition": "[Substance] Chemical or alchemical material_56.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 309,
+    "term": "Substance_57",
+    "definition": "[Substance] Chemical or alchemical material_57.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 310,
+    "term": "Substance_58",
+    "definition": "[Substance] Chemical or alchemical material_58.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 311,
+    "term": "Substance_59",
+    "definition": "[Substance] Chemical or alchemical material_59.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 312,
+    "term": "Substance_60",
+    "definition": "[Substance] Chemical or alchemical material_60.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 313,
+    "term": "Substance_61",
+    "definition": "[Substance] Chemical or alchemical material_61.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 314,
+    "term": "Substance_62",
+    "definition": "[Substance] Chemical or alchemical material_62.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 315,
+    "term": "Substance_63",
+    "definition": "[Substance] Chemical or alchemical material_63.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 316,
+    "term": "Substance_64",
+    "definition": "[Substance] Chemical or alchemical material_64.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 317,
+    "term": "Substance_65",
+    "definition": "[Substance] Chemical or alchemical material_65.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 318,
+    "term": "Substance_66",
+    "definition": "[Substance] Chemical or alchemical material_66.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 319,
+    "term": "Substance_67",
+    "definition": "[Substance] Chemical or alchemical material_67.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 320,
+    "term": "Substance_68",
+    "definition": "[Substance] Chemical or alchemical material_68.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 321,
+    "term": "Substance_69",
+    "definition": "[Substance] Chemical or alchemical material_69.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 322,
+    "term": "Substance_70",
+    "definition": "[Substance] Chemical or alchemical material_70.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 323,
+    "term": "Substance_71",
+    "definition": "[Substance] Chemical or alchemical material_71.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 324,
+    "term": "Substance_72",
+    "definition": "[Substance] Chemical or alchemical material_72.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 325,
+    "term": "Substance_73",
+    "definition": "[Substance] Chemical or alchemical material_73.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 326,
+    "term": "Substance_74",
+    "definition": "[Substance] Chemical or alchemical material_74.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 327,
+    "term": "Substance_75",
+    "definition": "[Substance] Chemical or alchemical material_75.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 328,
+    "term": "Substance_76",
+    "definition": "[Substance] Chemical or alchemical material_76.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 329,
+    "term": "Substance_77",
+    "definition": "[Substance] Chemical or alchemical material_77.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 330,
+    "term": "Substance_78",
+    "definition": "[Substance] Chemical or alchemical material_78.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 331,
+    "term": "Substance_79",
+    "definition": "[Substance] Chemical or alchemical material_79.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 332,
+    "term": "Substance_80",
+    "definition": "[Substance] Chemical or alchemical material_80.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 333,
+    "term": "Substance_81",
+    "definition": "[Substance] Chemical or alchemical material_81.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 334,
+    "term": "Substance_82",
+    "definition": "[Substance] Chemical or alchemical material_82.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 335,
+    "term": "Substance_83",
+    "definition": "[Substance] Chemical or alchemical material_83.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 336,
+    "term": "Substance_84",
+    "definition": "[Substance] Chemical or alchemical material_84.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 337,
+    "term": "Substance_85",
+    "definition": "[Substance] Chemical or alchemical material_85.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 338,
+    "term": "Substance_86",
+    "definition": "[Substance] Chemical or alchemical material_86.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 339,
+    "term": "Substance_87",
+    "definition": "[Substance] Chemical or alchemical material_87.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 340,
+    "term": "Substance_88",
+    "definition": "[Substance] Chemical or alchemical material_88.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 341,
+    "term": "Substance_89",
+    "definition": "[Substance] Chemical or alchemical material_89.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 342,
+    "term": "Substance_90",
+    "definition": "[Substance] Chemical or alchemical material_90.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 343,
+    "term": "Substance_91",
+    "definition": "[Substance] Chemical or alchemical material_91.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 344,
+    "term": "Substance_92",
+    "definition": "[Substance] Chemical or alchemical material_92.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 345,
+    "term": "Substance_93",
+    "definition": "[Substance] Chemical or alchemical material_93.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 346,
+    "term": "Substance_94",
+    "definition": "[Substance] Chemical or alchemical material_94.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 347,
+    "term": "Substance_95",
+    "definition": "[Substance] Chemical or alchemical material_95.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 348,
+    "term": "Substance_96",
+    "definition": "[Substance] Chemical or alchemical material_96.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 349,
+    "term": "Substance_97",
+    "definition": "[Substance] Chemical or alchemical material_97.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 350,
+    "term": "Substance_98",
+    "definition": "[Substance] Chemical or alchemical material_98.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 351,
+    "term": "Substance_99",
+    "definition": "[Substance] Chemical or alchemical material_99.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 352,
+    "term": "Substance_100",
+    "definition": "[Substance] Chemical or alchemical material_100.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 363,
+    "term": "Chemical Wedding",
+    "definition": "[Allegory] The union of opposites, often depicted as a royal marriage.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 364,
+    "term": "Philosophical Egg",
+    "definition": "[Allegory] The sealed vessel in which the alchemical transformation occurs.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 365,
+    "term": "Homunculus",
+    "definition": "[Allegory] The 'little man' created through alchemical or magical means.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 366,
+    "term": "Tria Prima",
+    "definition": "[Allegory] The three principles: Salt, Sulphur, and Mercury.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 367,
+    "term": "Rebis",
+    "definition": "[Allegory] The 'Two-Thing', a hermaphroditic figure representing the end of the work.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 368,
+    "term": "Peacock's Tail",
+    "definition": "[Allegory] The display of many colors during the alchemical process.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 369,
+    "term": "Uroboric Circle",
+    "definition": "[Allegory] The closed loop of the alchemical vessel and the process itself.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 370,
+    "term": "The Pelican",
+    "definition": "[Allegory] Symbol of self-sacrifice and nourishment of the work.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 371,
+    "term": "The Phoenix",
+    "definition": "[Allegory] Symbol of rebirth and the attainment of the Red Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 372,
+    "term": "Fixation of the Volatile",
+    "definition": "[Allegory] The process of making a volatile substance stable.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 373,
+    "term": "Allegory_21",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_21.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 374,
+    "term": "Allegory_22",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_22.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 375,
+    "term": "Allegory_23",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_23.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 376,
+    "term": "Allegory_24",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_24.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 377,
+    "term": "Allegory_25",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_25.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 378,
+    "term": "Allegory_26",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_26.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 379,
+    "term": "Allegory_27",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_27.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 380,
+    "term": "Allegory_28",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_28.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 381,
+    "term": "Allegory_29",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_29.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 382,
+    "term": "Allegory_30",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_30.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 383,
+    "term": "Allegory_31",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_31.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 384,
+    "term": "Allegory_32",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_32.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 385,
+    "term": "Allegory_33",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_33.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 386,
+    "term": "Allegory_34",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_34.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 387,
+    "term": "Allegory_35",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_35.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 388,
+    "term": "Allegory_36",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_36.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 389,
+    "term": "Allegory_37",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_37.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 390,
+    "term": "Allegory_38",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_38.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 391,
+    "term": "Allegory_39",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_39.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 392,
+    "term": "Allegory_40",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_40.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 393,
+    "term": "Allegory_41",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_41.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 394,
+    "term": "Allegory_42",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_42.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 395,
+    "term": "Allegory_43",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_43.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 396,
+    "term": "Allegory_44",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_44.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 397,
+    "term": "Allegory_45",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_45.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 398,
+    "term": "Allegory_46",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_46.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 399,
+    "term": "Allegory_47",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_47.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 400,
+    "term": "Allegory_48",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_48.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 401,
+    "term": "Allegory_49",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_49.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 402,
+    "term": "Allegory_50",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_50.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 403,
+    "term": "Allegory_51",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_51.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 404,
+    "term": "Allegory_52",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_52.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 405,
+    "term": "Allegory_53",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_53.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 406,
+    "term": "Allegory_54",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_54.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 407,
+    "term": "Allegory_55",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_55.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 408,
+    "term": "Allegory_56",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_56.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 409,
+    "term": "Allegory_57",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_57.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 410,
+    "term": "Allegory_58",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_58.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 411,
+    "term": "Allegory_59",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_59.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 412,
+    "term": "Allegory_60",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_60.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 413,
+    "term": "Allegory_61",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_61.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 414,
+    "term": "Allegory_62",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_62.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 415,
+    "term": "Allegory_63",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_63.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 416,
+    "term": "Allegory_64",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_64.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 417,
+    "term": "Allegory_65",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_65.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 418,
+    "term": "Allegory_66",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_66.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 419,
+    "term": "Allegory_67",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_67.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 420,
+    "term": "Allegory_68",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_68.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 421,
+    "term": "Allegory_69",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_69.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 422,
+    "term": "Allegory_70",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_70.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 423,
+    "term": "Allegory_71",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_71.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 424,
+    "term": "Allegory_72",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_72.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 425,
+    "term": "Allegory_73",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_73.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 426,
+    "term": "Allegory_74",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_74.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 427,
+    "term": "Allegory_75",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_75.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 428,
+    "term": "Allegory_76",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_76.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 429,
+    "term": "Allegory_77",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_77.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 430,
+    "term": "Allegory_78",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_78.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 431,
+    "term": "Allegory_79",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_79.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 432,
+    "term": "Allegory_80",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_80.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 433,
+    "term": "Allegory_81",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_81.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 434,
+    "term": "Allegory_82",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_82.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 435,
+    "term": "Allegory_83",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_83.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 436,
+    "term": "Allegory_84",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_84.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 437,
+    "term": "Allegory_85",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_85.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 438,
+    "term": "Allegory_86",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_86.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 439,
+    "term": "Allegory_87",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_87.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 440,
+    "term": "Allegory_88",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_88.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 441,
+    "term": "Allegory_89",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_89.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 442,
+    "term": "Allegory_90",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_90.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 443,
+    "term": "Allegory_91",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_91.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 444,
+    "term": "Allegory_92",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_92.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 445,
+    "term": "Allegory_93",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_93.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 446,
+    "term": "Allegory_94",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_94.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 447,
+    "term": "Allegory_95",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_95.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 448,
+    "term": "Allegory_96",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_96.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 449,
+    "term": "Allegory_97",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_97.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 450,
+    "term": "Allegory_98",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_98.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 451,
+    "term": "Allegory_99",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_99.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 452,
+    "term": "Allegory_100",
+    "definition": "[Allegory] Symbolic or theoretical alchemical concept_100.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 463,
+    "term": "Mortar and Pestle",
+    "definition": "[Apparatus] Basic tools used for grinding and mixing solid materials.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 464,
+    "term": "Crucible",
+    "definition": "[Apparatus] Heat-resistant container used for melting metals.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 465,
+    "term": "Retort",
+    "definition": "[Apparatus] A glass vessel with a long, downward-pointing neck used for distillation.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 466,
+    "term": "Bain-Marie (Mary's Bath)",
+    "definition": "[Apparatus] A double boiler used for gentle, uniform heating.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 467,
+    "term": "Putrefaction",
+    "definition": "[Apparatus] The breakdown of organic or alchemical matter, often the first stage.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 468,
+    "term": "Fermentation",
+    "definition": "[Apparatus] The stage where the Stone is infused with vitality and power.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 469,
+    "term": "Multiplication",
+    "definition": "[Apparatus] Increasing the quantity and quality of the Philosopher's Stone.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 470,
+    "term": "Projection",
+    "definition": "[Apparatus] The final act of using the Stone to transmute base metals into gold.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 471,
+    "term": "Sand Bath",
+    "definition": "[Apparatus] A method of heating a vessel using hot sand for even temperatures.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 472,
+    "term": "Ash Bath",
+    "definition": "[Apparatus] Similar to a sand bath, but using ashes for gentler heat.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 473,
+    "term": "Apparatus_21",
+    "definition": "[Apparatus] Alchemical tool or experimental process_21.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 474,
+    "term": "Apparatus_22",
+    "definition": "[Apparatus] Alchemical tool or experimental process_22.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 475,
+    "term": "Apparatus_23",
+    "definition": "[Apparatus] Alchemical tool or experimental process_23.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 476,
+    "term": "Apparatus_24",
+    "definition": "[Apparatus] Alchemical tool or experimental process_24.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 477,
+    "term": "Apparatus_25",
+    "definition": "[Apparatus] Alchemical tool or experimental process_25.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 478,
+    "term": "Apparatus_26",
+    "definition": "[Apparatus] Alchemical tool or experimental process_26.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 479,
+    "term": "Apparatus_27",
+    "definition": "[Apparatus] Alchemical tool or experimental process_27.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 480,
+    "term": "Apparatus_28",
+    "definition": "[Apparatus] Alchemical tool or experimental process_28.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 481,
+    "term": "Apparatus_29",
+    "definition": "[Apparatus] Alchemical tool or experimental process_29.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 482,
+    "term": "Apparatus_30",
+    "definition": "[Apparatus] Alchemical tool or experimental process_30.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 483,
+    "term": "Apparatus_31",
+    "definition": "[Apparatus] Alchemical tool or experimental process_31.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 484,
+    "term": "Apparatus_32",
+    "definition": "[Apparatus] Alchemical tool or experimental process_32.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 485,
+    "term": "Apparatus_33",
+    "definition": "[Apparatus] Alchemical tool or experimental process_33.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 486,
+    "term": "Apparatus_34",
+    "definition": "[Apparatus] Alchemical tool or experimental process_34.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 487,
+    "term": "Apparatus_35",
+    "definition": "[Apparatus] Alchemical tool or experimental process_35.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 488,
+    "term": "Apparatus_36",
+    "definition": "[Apparatus] Alchemical tool or experimental process_36.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 489,
+    "term": "Apparatus_37",
+    "definition": "[Apparatus] Alchemical tool or experimental process_37.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 490,
+    "term": "Apparatus_38",
+    "definition": "[Apparatus] Alchemical tool or experimental process_38.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 491,
+    "term": "Apparatus_39",
+    "definition": "[Apparatus] Alchemical tool or experimental process_39.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 492,
+    "term": "Apparatus_40",
+    "definition": "[Apparatus] Alchemical tool or experimental process_40.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 493,
+    "term": "Apparatus_41",
+    "definition": "[Apparatus] Alchemical tool or experimental process_41.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 494,
+    "term": "Apparatus_42",
+    "definition": "[Apparatus] Alchemical tool or experimental process_42.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 495,
+    "term": "Apparatus_43",
+    "definition": "[Apparatus] Alchemical tool or experimental process_43.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 496,
+    "term": "Apparatus_44",
+    "definition": "[Apparatus] Alchemical tool or experimental process_44.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 497,
+    "term": "Apparatus_45",
+    "definition": "[Apparatus] Alchemical tool or experimental process_45.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 498,
+    "term": "Apparatus_46",
+    "definition": "[Apparatus] Alchemical tool or experimental process_46.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 499,
+    "term": "Apparatus_47",
+    "definition": "[Apparatus] Alchemical tool or experimental process_47.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 500,
+    "term": "Apparatus_48",
+    "definition": "[Apparatus] Alchemical tool or experimental process_48.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 501,
+    "term": "Apparatus_49",
+    "definition": "[Apparatus] Alchemical tool or experimental process_49.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 502,
+    "term": "Apparatus_50",
+    "definition": "[Apparatus] Alchemical tool or experimental process_50.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 503,
+    "term": "Apparatus_51",
+    "definition": "[Apparatus] Alchemical tool or experimental process_51.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 504,
+    "term": "Apparatus_52",
+    "definition": "[Apparatus] Alchemical tool or experimental process_52.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 505,
+    "term": "Apparatus_53",
+    "definition": "[Apparatus] Alchemical tool or experimental process_53.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 506,
+    "term": "Apparatus_54",
+    "definition": "[Apparatus] Alchemical tool or experimental process_54.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 507,
+    "term": "Apparatus_55",
+    "definition": "[Apparatus] Alchemical tool or experimental process_55.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 508,
+    "term": "Apparatus_56",
+    "definition": "[Apparatus] Alchemical tool or experimental process_56.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 509,
+    "term": "Apparatus_57",
+    "definition": "[Apparatus] Alchemical tool or experimental process_57.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 510,
+    "term": "Apparatus_58",
+    "definition": "[Apparatus] Alchemical tool or experimental process_58.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 511,
+    "term": "Apparatus_59",
+    "definition": "[Apparatus] Alchemical tool or experimental process_59.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 512,
+    "term": "Apparatus_60",
+    "definition": "[Apparatus] Alchemical tool or experimental process_60.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 513,
+    "term": "Apparatus_61",
+    "definition": "[Apparatus] Alchemical tool or experimental process_61.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 514,
+    "term": "Apparatus_62",
+    "definition": "[Apparatus] Alchemical tool or experimental process_62.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 515,
+    "term": "Apparatus_63",
+    "definition": "[Apparatus] Alchemical tool or experimental process_63.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 516,
+    "term": "Apparatus_64",
+    "definition": "[Apparatus] Alchemical tool or experimental process_64.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 517,
+    "term": "Apparatus_65",
+    "definition": "[Apparatus] Alchemical tool or experimental process_65.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 518,
+    "term": "Apparatus_66",
+    "definition": "[Apparatus] Alchemical tool or experimental process_66.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 519,
+    "term": "Apparatus_67",
+    "definition": "[Apparatus] Alchemical tool or experimental process_67.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 520,
+    "term": "Apparatus_68",
+    "definition": "[Apparatus] Alchemical tool or experimental process_68.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 521,
+    "term": "Apparatus_69",
+    "definition": "[Apparatus] Alchemical tool or experimental process_69.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 522,
+    "term": "Apparatus_70",
+    "definition": "[Apparatus] Alchemical tool or experimental process_70.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 523,
+    "term": "Apparatus_71",
+    "definition": "[Apparatus] Alchemical tool or experimental process_71.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 524,
+    "term": "Apparatus_72",
+    "definition": "[Apparatus] Alchemical tool or experimental process_72.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 525,
+    "term": "Apparatus_73",
+    "definition": "[Apparatus] Alchemical tool or experimental process_73.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 526,
+    "term": "Apparatus_74",
+    "definition": "[Apparatus] Alchemical tool or experimental process_74.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 527,
+    "term": "Apparatus_75",
+    "definition": "[Apparatus] Alchemical tool or experimental process_75.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 528,
+    "term": "Apparatus_76",
+    "definition": "[Apparatus] Alchemical tool or experimental process_76.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 529,
+    "term": "Apparatus_77",
+    "definition": "[Apparatus] Alchemical tool or experimental process_77.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 530,
+    "term": "Apparatus_78",
+    "definition": "[Apparatus] Alchemical tool or experimental process_78.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 531,
+    "term": "Apparatus_79",
+    "definition": "[Apparatus] Alchemical tool or experimental process_79.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 532,
+    "term": "Apparatus_80",
+    "definition": "[Apparatus] Alchemical tool or experimental process_80.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 533,
+    "term": "Apparatus_81",
+    "definition": "[Apparatus] Alchemical tool or experimental process_81.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 534,
+    "term": "Apparatus_82",
+    "definition": "[Apparatus] Alchemical tool or experimental process_82.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 535,
+    "term": "Apparatus_83",
+    "definition": "[Apparatus] Alchemical tool or experimental process_83.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 536,
+    "term": "Apparatus_84",
+    "definition": "[Apparatus] Alchemical tool or experimental process_84.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 537,
+    "term": "Apparatus_85",
+    "definition": "[Apparatus] Alchemical tool or experimental process_85.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 538,
+    "term": "Apparatus_86",
+    "definition": "[Apparatus] Alchemical tool or experimental process_86.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 539,
+    "term": "Apparatus_87",
+    "definition": "[Apparatus] Alchemical tool or experimental process_87.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 540,
+    "term": "Apparatus_88",
+    "definition": "[Apparatus] Alchemical tool or experimental process_88.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 541,
+    "term": "Apparatus_89",
+    "definition": "[Apparatus] Alchemical tool or experimental process_89.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 542,
+    "term": "Apparatus_90",
+    "definition": "[Apparatus] Alchemical tool or experimental process_90.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 543,
+    "term": "Apparatus_91",
+    "definition": "[Apparatus] Alchemical tool or experimental process_91.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 544,
+    "term": "Apparatus_92",
+    "definition": "[Apparatus] Alchemical tool or experimental process_92.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 545,
+    "term": "Apparatus_93",
+    "definition": "[Apparatus] Alchemical tool or experimental process_93.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 546,
+    "term": "Apparatus_94",
+    "definition": "[Apparatus] Alchemical tool or experimental process_94.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 547,
+    "term": "Apparatus_95",
+    "definition": "[Apparatus] Alchemical tool or experimental process_95.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 548,
+    "term": "Apparatus_96",
+    "definition": "[Apparatus] Alchemical tool or experimental process_96.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 549,
+    "term": "Apparatus_97",
+    "definition": "[Apparatus] Alchemical tool or experimental process_97.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 550,
+    "term": "Apparatus_98",
+    "definition": "[Apparatus] Alchemical tool or experimental process_98.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 551,
+    "term": "Apparatus_99",
+    "definition": "[Apparatus] Alchemical tool or experimental process_99.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 552,
+    "term": "Apparatus_100",
+    "definition": "[Apparatus] Alchemical tool or experimental process_100.",
+    "symbol_path": null,
+    "category": null,
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 553,
+    "term": "William R. Newman",
+    "definition": "A leading figure in the 'New Historiography' of alchemy, Newman's work focuses on the experimental and corpuscular nature of alchemical practice, particularly in the works of 'Geber' and Isaac Newton.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 554,
+    "term": "Lawrence M. Principe",
+    "definition": "A chemist and historian, Principe has pioneered the laboratory reconstruction of alchemical experiments, arguing for the term 'Chymistry' to describe the unified field of chemistry and alchemy in the 17th century.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 556,
+    "term": "Barbara Obrist",
+    "definition": "Obrist specializes in the visualization of alchemical and cosmological concepts in medieval and early modern manuscripts, focusing on the intersection of art, science, and philosophy.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 557,
+    "term": "Peter Forshaw",
+    "definition": "Forshaw explores the intersections of alchemy, magic, and religion, with particular expertise in the works of John Dee and Heinrich Khunrath.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 558,
+    "term": "Allen Debus",
+    "definition": "A foundational historian of science who championed the study of the Paracelsian tradition as a vital component of the Scientific Revolution.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 560,
+    "term": "Anke Timmerman",
+    "definition": "Specialist in alchemical manuscripts and verse, particularly in the Middle English tradition, her work bridges literary analysis and the history of science.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 571,
+    "term": "Chrysopoeia",
+    "definition": "The art of making gold through transmutation or coloration. Materials: Lead, copper, mercury, sulfur compounds, metallic salts. Processes: Calcination, sublimation, projection.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 572,
+    "term": "Argyropoeia",
+    "definition": "The making of silver from base metals. Materials: Copper alloys, lead, white mineral powders. Processes: Surface whitening, alloying, cementation.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 573,
+    "term": "Purple Dyeing (Porphyropoeia)",
+    "definition": "Production of purple coloration in textiles. Materials: Murex dyes, vegetal substitutes, mordants. Processes: Immersion dyeing, fixation, oxidation.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 574,
+    "term": "Artificial Gem Production",
+    "definition": "Coloring crystal quartz or glass to imitate precious stones. Materials: Silica, metallic oxides, copper, iron. Processes: High-temperature fusion.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 575,
+    "term": "Glassmaking (Cristallo)",
+    "definition": "Production of clear or colored glass imitating rock crystal. Materials: Silica sand, potash, soda ash. Processes: Furnace melting, annealing.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 576,
+    "term": "Porcelain Manufacture (Hard-Paste)",
+    "definition": "Production of high-fired ceramic bodies. Materials: Kaolin, feldspar, quartz. Processes: High-temperature kiln firing, glaze chemistry.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 577,
+    "term": "Metallogenetic Theory",
+    "definition": "Theories explaining how metals form within the earth. Key Insight: Sulfur-mercury principles; subterranean 'cooking'.",
+    "symbol_path": null,
+    "category": "Theory",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 578,
+    "term": "Assaying",
+    "definition": "Testing purity of gold or silver using touchstones, cupels, or acids. Connects fraud detection and expertise.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 579,
+    "term": "Cupellation",
+    "definition": "Refinement process separating precious metals from lead via oxidative heating in bone ash cupels.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 583,
+    "term": "Cementation",
+    "definition": "Surface transformation of metals via mineral packing and prolonged furnace exposure.",
+    "symbol_path": null,
+    "category": "Process",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 584,
+    "term": "Fireworks Manufacture",
+    "definition": "Controlled explosive chemistry using saltpeter, sulfur, and charcoal. Overlaps with alchemical language.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 585,
+    "term": "Mineral Dye Production",
+    "definition": "Manufacturing pigments/dyes from mineral salts (iron oxides, copper salts) via grinding and washing.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 586,
+    "term": "Handstein",
+    "definition": "Ornamental mineral specimen displaying metal veins; embodied metallogenetic knowledge.",
+    "symbol_path": null,
+    "category": "Art Material",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 587,
+    "term": "Furnace (Fornax)",
+    "definition": "Core laboratory instrument enabling material transformation. Types: Melting furnace, distillation furnace, porcelain kiln.",
+    "symbol_path": null,
+    "category": "Apparatus",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 588,
+    "term": "Fonderia",
+    "definition": "Medici workshop combining pharmacy, metallurgy, and art production. A court-sponsored hybrid lab.",
+    "symbol_path": null,
+    "category": "Space",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 589,
+    "term": "Kunst- und Werckhaus",
+    "definition": "Proposed centralized workshop combining chemical laboratories with manufactures (dyes, textiles, acids).",
+    "symbol_path": null,
+    "category": "Space",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 590,
+    "term": "Iatrochemistry",
+    "definition": "Chemical medicine tradition derived from Paracelsus; focuses on mineral remedies and extracts.",
+    "symbol_path": null,
+    "category": "Theory",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 591,
+    "term": "Laboratories of Art",
+    "definition": "Framework arguing that early modern labs and workshops shared material cultures, personnel, and practices. Entangles alchemy with luxury goods.",
+    "symbol_path": null,
+    "category": "Scholarly Framework",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 592,
+    "term": "Charles G. Nauert, Jr.",
+    "definition": "Historian of the Renaissance and author of reviews for 'The Business of Alchemy'. Provided critical context on the Holy Roman Empire's court culture.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 593,
+    "term": "Keith Tribe",
+    "definition": "Historian of economic thought; reviewed 'The Business of Alchemy' in Isis, highlighting the alchemical-industrial links.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 594,
+    "term": "Paula Findlen",
+    "definition": "Prominent historian of early modern science (e.g., 'Possessing Nature'). Her work on the culture of collecting and curiosity cabinets (Wunderkammern) overlaps with alchemical material culture.",
+    "symbol_path": null,
+    "category": "Scholar",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 595,
+    "term": "Renaissance Quarterly",
+    "definition": "Interdisciplinary journal where 'The Business of Alchemy' was reviewed by Nauert, highlighting the scholarly reception of socio-economic alchemical history.",
+    "symbol_path": null,
+    "category": "Publication",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 596,
+    "term": "Isis (Journal)",
+    "definition": "Leading journal in the history of science where Keith Tribe and others reviewed the shift toward material and economic alchemical history.",
+    "symbol_path": null,
+    "category": "Publication",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 597,
+    "term": "Vannoccio Biringuccio",
+    "definition": "Author of 'De la pirotechnia' (1540). Grouped alchemy within the 'arts of fire', bridging metallurgy and chemical theory.",
+    "symbol_path": null,
+    "category": "Alchemist / Technologist",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 598,
+    "term": "Artisanal Authority",
+    "definition": "Concept explored by Smith and others where hands-on material knowledge (the 'body of the artisan') claims its own epistemic status alongside textual learning.",
+    "symbol_path": null,
+    "category": "Scholarly Framework",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 599,
+    "term": "Knowledge Economy Role",
+    "definition": "The functional position of alchemical practice within a court or state's economic reform plans (e.g., Becher as a fiscal reformer).",
+    "symbol_path": null,
+    "category": "Scholarly Framework",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 600,
+    "term": "Experimental Lineage",
+    "definition": "Tracking the evolution of specific laboratory practices (e.g., thermal analysis) across generations of practitioners (Dwight, Tschirnhaus, B\u00f6ttger).",
+    "symbol_path": null,
+    "category": "Scholarly Framework",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  },
+  {
+    "id": 605,
+    "term": "Nitre",
+    "definition": "### 1. Core Definition\nA salt-like mineral found as a crust on soil or rocks. A key ingredient in gunpowder and 'strong waters'.\n\n### 2. Alchemical Profile\n* **Theory/Symbolism**: Associated with the 'Aerial Spirit' or the 'Salt of the Earth'. It was thought to contain the hidden vital fire of the universe, capable of animating matter.\n* **Function**: Used with vitriol to produce Aqua Fortis (nitric acid).\n\n### 3. Modern Chemical Profile\n* **Identity**: Potassium Nitrate (KNO3).\n* **Function**: A powerful oxidizing agent. Its decomposition provides oxygen for combustion.\n\n### 4. Synthesis\nThe 17th-century theory of 'Aerial Nitre' (as a source of life in breathing) directly anticipated the discovery of Oxygen as the active component in air.",
+    "symbol_path": null,
+    "category": "substance",
+    "is_verified": 0,
+    "theoretical_lineage": null
+  }
+]

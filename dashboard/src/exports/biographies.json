@@ -1,0 +1,341 @@
+[
+  {
+    "entity_id": 4,
+    "full_name": "Theophrastus von Hohenheim",
+    "lifespan": "1493\u20131541",
+    "tradition": "Iatrochemistry, Paracelsianism",
+    "narrative_summary": "A revolutionary physician and alchemist who rejected traditional Scholastic medicine in favor of a chemical approach to healing. He introduced the *Tria Prima* (Salt, Sulphur, Mercury) as the foundational principles of matter and health. His work often sought to synthesize alchemical practice with spiritual and theological insights.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1493",
+        "event": "Born in Einsiedeln, Switzerland."
+      },
+      {
+        "year": "1515",
+        "event": "Allegedly received doctorate in Ferrara, Italy."
+      },
+      {
+        "year": "1527",
+        "event": "Burned Avicenna's medical books in Basel, initiating his radical reforms."
+      },
+      {
+        "year": "1530",
+        "event": "Wrote Paramirum and Paragranum, defining his medical philosophy."
+      },
+      {
+        "year": "1541",
+        "event": "Died in Salzburg, leaving behind a massive corpus of texts."
+      }
+    ],
+    "primary_texts": [
+      "Opus Paramirum",
+      "Astronomia Magna",
+      "Archidoxis"
+    ]
+  },
+  {
+    "entity_id": 38,
+    "full_name": "Michael Maier",
+    "lifespan": "1568\u20131622",
+    "tradition": "Hermetic Alchemy, Rosicrucianism",
+    "narrative_summary": "German physician, counselor, and alchemist to Rudolf II. Maier is best known for his emblem books, particularly *Atalanta Fugiens*, which integrated alchemy with mythology and music. He was a central figure in the intellectual circles of the 'Rosicrucian Enlightenment'.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1568",
+        "event": "Born in Rendsburg, Holstein."
+      },
+      {
+        "year": "1608",
+        "event": "Entered the service of Emperor Rudolf II in Prague."
+      },
+      {
+        "year": "1617",
+        "event": "Published Atalanta Fugiens, his most famous emblem work."
+      },
+      {
+        "year": "1622",
+        "event": "Died in Magdeburg."
+      }
+    ],
+    "primary_texts": [
+      "Atalanta Fugiens",
+      "Arcana Arcanissima",
+      "Symbola Aureae Mensae"
+    ]
+  },
+  {
+    "entity_id": 7,
+    "full_name": "John Dee",
+    "lifespan": "1527\u20131608",
+    "tradition": "Hermeticism, Neoplatonism, Enochian Magick",
+    "narrative_summary": "Advisor to Queen Elizabeth I and a towering figure in the English Renaissance. Dee was a mathematician, astronomer, and alchemist who sought a unified understanding of the physical and spiritual worlds. His *Monas Hieroglyphica* is one of the most dense symbolic works in the Western Esoteric tradition.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1527",
+        "event": "Born in London."
+      },
+      {
+        "year": "1564",
+        "event": "Published Monas Hieroglyphica in Antwerp."
+      },
+      {
+        "year": "1582",
+        "event": "Refined his alchemical and magical collaborations with Edward Kelley."
+      },
+      {
+        "year": "1583",
+        "event": "Traveled to Europe to demonstrate his knowledge to Emperor Rudolf II."
+      },
+      {
+        "year": "1608",
+        "event": "Died at Mortlake in poverty."
+      }
+    ],
+    "primary_texts": [
+      "Monas Hieroglyphica",
+      "Propeudeumata Aphoristica",
+      "General and Rare Memorials pertayning to the Perfect Arte of Navigation"
+    ]
+  },
+  {
+    "entity_id": 125,
+    "full_name": "William R. Newman",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Chymistry",
+    "narrative_summary": "A leading figure in the 'New Historiography' of alchemy, Newman's work focuses on the experimental and corpuscular nature of alchemical practice, particularly in the works of 'Geber' and Isaac Newton.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1994",
+        "event": "Published 'The Summa Perfectionis of Pseudo-Geber'"
+      },
+      {
+        "year": "2006",
+        "event": "Published 'Atoms and Alchemy'"
+      },
+      {
+        "year": "2019",
+        "event": "Published 'Newton the Alchemist'"
+      }
+    ],
+    "primary_texts": [
+      "Newton the Alchemist",
+      "Atoms and Alchemy",
+      "The Summa Perfectionis of Pseudo-Geber"
+    ]
+  },
+  {
+    "entity_id": 126,
+    "full_name": "Lawrence M. Principe",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Chymistry",
+    "narrative_summary": "A chemist and historian, Principe has pioneered the laboratory reconstruction of alchemical experiments, arguing for the term 'Chymistry' to describe the unified field of chemistry and alchemy in the 17th century.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1998",
+        "event": "Published 'The Aspiring Adept'"
+      },
+      {
+        "year": "2013",
+        "event": "Published 'The Secrets of Alchemy'"
+      }
+    ],
+    "primary_texts": [
+      "The Secrets of Alchemy",
+      "The Aspiring Adept"
+    ]
+  },
+  {
+    "entity_id": 86,
+    "full_name": "Didier Kahn",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Paracelsianism",
+    "narrative_summary": "Kahn is a preeminent scholar of Paracelsianism and early modern French alchemy, known for his rigorous archival research and analysis of the philosophical and medical shifts in the 16th and 17th centuries.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "2007",
+        "event": "Published 'Alchimie et paracelsisme en France'"
+      }
+    ],
+    "primary_texts": [
+      "Alchimie et paracelsisme en France"
+    ]
+  },
+  {
+    "entity_id": 127,
+    "full_name": "Barbara Obrist",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Iconography",
+    "narrative_summary": "Obrist specializes in the visualization of alchemical and cosmological concepts in medieval and early modern manuscripts, focusing on the intersection of art, science, and philosophy.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1982",
+        "event": "Published 'Les d\u00e9buts de l'imagerie alchimique'"
+      }
+    ],
+    "primary_texts": [
+      "Les d\u00e9buts de l'imagerie alchimique"
+    ]
+  },
+  {
+    "entity_id": 128,
+    "full_name": "Peter Forshaw",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Christian Cabala",
+    "narrative_summary": "Forshaw explores the intersections of alchemy, magic, and religion, with particular expertise in the works of John Dee and Heinrich Khunrath.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "2005",
+        "event": "Detailed study of Khunrath's Amphitheatrum Sapientiae Eterna"
+      }
+    ],
+    "primary_texts": [
+      "Curious Knowledge"
+    ]
+  },
+  {
+    "entity_id": 129,
+    "full_name": "Allen Debus",
+    "lifespan": "1926-2009",
+    "tradition": "New Historiography / Paracelsian Tradition",
+    "narrative_summary": "A foundational historian of science who championed the study of the Paracelsian tradition as a vital component of the Scientific Revolution.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1965",
+        "event": "Published 'The English Paracelsians'"
+      },
+      {
+        "year": "1977",
+        "event": "Published 'The Chemical Philosophy'"
+      }
+    ],
+    "primary_texts": [
+      "The Chemical Philosophy",
+      "The English Paracelsians"
+    ]
+  },
+  {
+    "entity_id": 107,
+    "full_name": "Tara Nummedal",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Labor & Gender",
+    "narrative_summary": "Nummedal examines the social and cultural history of alchemy, focusing on the practical labor of alchemists and the role of alchemy in early modern courts.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "2007",
+        "event": "Published 'Alchemy and Authority in the Holy Roman Empire'"
+      }
+    ],
+    "primary_texts": [
+      "Alchemy and Authority in the Holy Roman Empire"
+    ]
+  },
+  {
+    "entity_id": 130,
+    "full_name": "Anke Timmerman",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Manuscripts",
+    "narrative_summary": "Specialist in alchemical manuscripts and verse, particularly in the Middle English tradition, her work bridges literary analysis and the history of science.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "2013",
+        "event": "Published 'Verse and Transmutation'"
+      }
+    ],
+    "primary_texts": [
+      "Verse and Transmutation"
+    ]
+  },
+  {
+    "entity_id": 110,
+    "full_name": "Pamela Smith",
+    "lifespan": "Modern",
+    "tradition": "New Historiography / Material Culture",
+    "narrative_summary": "Smith's work explores the 'body of the artisan,' arguing that material knowledge and laboratory practice were foundational to the development of modern science.",
+    "knowledge_economy_role": null,
+    "milestones": [
+      {
+        "year": "1994",
+        "event": "Published 'The Business of Alchemy'"
+      },
+      {
+        "year": "2004",
+        "event": "Published 'The Body of the Artisan'"
+      }
+    ],
+    "primary_texts": [
+      "The Body of the Artisan",
+      "The Business of Alchemy"
+    ]
+  },
+  {
+    "entity_id": 131,
+    "full_name": "Pamela H. Smith",
+    "lifespan": null,
+    "tradition": "Material Culture Studies / STS",
+    "narrative_summary": "Historian of early modern science specializing in artisanal knowledge and the political economy of alchemy. Her work reframed alchemy as embedded in court culture and economic reform.",
+    "knowledge_economy_role": "Analyzing alchemy as a vehicle for social capital and economic reform.",
+    "milestones": [],
+    "primary_texts": [
+      "The Business of Alchemy (1994)",
+      "The Body of the Artisan (2004)"
+    ]
+  },
+  {
+    "entity_id": 132,
+    "full_name": "Johann Joachim Becher",
+    "lifespan": null,
+    "tradition": "Court Alchemy / Mercantilism",
+    "narrative_summary": "Self-educated alchemist and court projector active in Mainz, Munich, and Vienna. Linked chemical knowledge to fiscal reform and promoted state-sponsored industry.",
+    "knowledge_economy_role": "Advocating manufacturing and mercantilism through alchemical reputation.",
+    "milestones": [],
+    "primary_texts": [
+      "Physica subterranea",
+      "Politischer Discurs"
+    ]
+  },
+  {
+    "entity_id": 133,
+    "full_name": "Georg Ernst Stahl",
+    "lifespan": null,
+    "tradition": "Phlogiston Theory",
+    "narrative_summary": "Republished Becher's work and advanced phlogiston theory, creating a chemical lineage from Becher's subterranean physics.",
+    "knowledge_economy_role": null,
+    "milestones": [],
+    "primary_texts": [
+      "Repubished Becher's Physica Subterranea"
+    ]
+  },
+  {
+    "entity_id": 134,
+    "full_name": "Gottfried Wilhelm Leibniz",
+    "lifespan": null,
+    "tradition": "Rationalism",
+    "narrative_summary": "Engaged in alchemical-industrial speculation and tracked Becher's projects, showing that canonical rationalists were deep participants in alchemical-industrial schemes.",
+    "knowledge_economy_role": null,
+    "milestones": [],
+    "primary_texts": []
+  },
+  {
+    "entity_id": 56,
+    "full_name": "George Starkey",
+    "lifespan": null,
+    "tradition": "Corpuscular Alchemy",
+    "narrative_summary": "Harvard-educated alchemist who became influential in London. Developed 'philosophical mercury' and was a major influence on Newton. Wrote under the pseudonym Eirenaeus Philalethes.",
+    "knowledge_economy_role": null,
+    "milestones": [],
+    "primary_texts": [
+      "The Marrow of Alchemy (as Philalethes)"
+    ]
+  }
+]

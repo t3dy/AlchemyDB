@@ -1,0 +1,806 @@
+[
+  {
+    "id": 1,
+    "name": "Heinrich Cornelius Agrippa",
+    "type": "alchemist",
+    "description": "Author of De occulta philosophia, interested in the theory and practice of alchemy."
+  },
+  {
+    "id": 2,
+    "name": "Masha'allah ibn Athari",
+    "type": "historical_figure",
+    "description": "8th-century astrologer and astronomer, associated with De elementis and Liber de Orbe."
+  },
+  {
+    "id": 3,
+    "name": "Avicebron (Solomon ibn Gabirol)",
+    "type": "author",
+    "description": "Author of Fons vitae, central to 12th-century cosmography."
+  },
+  {
+    "id": 4,
+    "name": "Paracelsus",
+    "type": "alchemist",
+    "description": "[Practitioner] Renaissance physician and alchemist, founder of iatrochemistry (Tria Prima)."
+  },
+  {
+    "id": 5,
+    "name": "Isaac Newton",
+    "type": "alchemist",
+    "description": "[Practitioner] Physicist who spent decades studying alchemy and translating the Emerald Tablet."
+  },
+  {
+    "id": 6,
+    "name": "Turba Philosophorum",
+    "type": "manuscript",
+    "description": "[Text] One of the oldest Latin alchemical texts, framed as a council of philosophers."
+  },
+  {
+    "id": 7,
+    "name": "John Dee",
+    "type": "alchemist",
+    "description": "[Practitioner] English polymath and advisor to Elizabeth I, author of Monas Hieroglyphica."
+  },
+  {
+    "id": 8,
+    "name": "Philosophical Mercury",
+    "type": "substance",
+    "description": "[Substance] The purified, non-vulgar mercury required for the Magnum Opus."
+  },
+  {
+    "id": 9,
+    "name": "Mutus Liber",
+    "type": "manuscript",
+    "description": "[Text] The 'Silent Book', an alchemical treatise composed of plates without text."
+  },
+  {
+    "id": 10,
+    "name": "Rosarium Philosophorum",
+    "type": "manuscript",
+    "description": "[Text] 16th-century treatise illustrating the conjunction of King and Queen."
+  },
+  {
+    "id": 11,
+    "name": "Zosimos of Panopolis",
+    "type": "alchemist",
+    "description": "[Practitioner] 3rd-century Gnostic alchemist, author of the earliest known alchemical texts."
+  },
+  {
+    "id": 12,
+    "name": "Sulphur",
+    "type": "substance",
+    "description": "[Substance] One of the Tria Prima; represents the soul or flammable principle."
+  },
+  {
+    "id": 13,
+    "name": "Cinnabar",
+    "type": "substance",
+    "description": "[Substance] Bright red mineral (mercury sulphide), a primary source of mercury."
+  },
+  {
+    "id": 14,
+    "name": "Splendor Solis",
+    "type": "manuscript",
+    "description": "[Text] High-Renaissance alchemical manuscript known for its 22 elaborate miniatures."
+  },
+  {
+    "id": 15,
+    "name": "Azoth",
+    "type": "substance",
+    "description": "[Substance] Universal solvent or 'Mercury of the Philosophers', alpha and omega."
+  },
+  {
+    "id": 16,
+    "name": "Salt",
+    "type": "substance",
+    "description": "[Substance] One of the Tria Prima; represents the body or fixed principle."
+  },
+  {
+    "id": 17,
+    "name": "Basil Valentine",
+    "type": "alchemist",
+    "description": "[Practitioner] Legendary 15th-century monk and alchemist, author of The Twelve Keys."
+  },
+  {
+    "id": 18,
+    "name": "Spirit of Wine",
+    "type": "substance",
+    "description": "[Substance] Concentrated ethanol obtained by distillation, used as a solvent."
+  },
+  {
+    "id": 19,
+    "name": "Robert Boyle",
+    "type": "alchemist",
+    "description": "[Practitioner] Natural philosopher and alchemist, key figure in the transition to chemistry."
+  },
+  {
+    "id": 20,
+    "name": "Nicolas Flamel",
+    "type": "alchemist",
+    "description": "[Practitioner] 14th-century French scribe and legendary alchemist associated with the Stone."
+  },
+  {
+    "id": 21,
+    "name": "Emerald Tablet",
+    "type": "manuscript",
+    "description": "[Text] Foundational Hermetic text containing the dictum 'As above, so below'."
+  },
+  {
+    "id": 22,
+    "name": "Distillation",
+    "type": "equipment",
+    "description": "[Apparatus] The separation of substances based on differences in volatility."
+  },
+  {
+    "id": 23,
+    "name": "Circulation",
+    "type": "equipment",
+    "description": "[Apparatus] Continuous distillation where the distillate returns to the base."
+  },
+  {
+    "id": 24,
+    "name": "Philosophical Egg",
+    "type": "theory",
+    "description": "[Allegory] The sealed vessel in which the alchemical transformation occurs."
+  },
+  {
+    "id": 25,
+    "name": "Retort",
+    "type": "equipment",
+    "description": "[Apparatus] A glass vessel with a long, downward-pointing neck used for distillation."
+  },
+  {
+    "id": 26,
+    "name": "Athanor",
+    "type": "equipment",
+    "description": "[Apparatus] The furnace used by alchemists to maintain a constant heat."
+  },
+  {
+    "id": 27,
+    "name": "Putrefaction",
+    "type": "equipment",
+    "description": "[Apparatus] The breakdown of organic or alchemical matter, often the first stage."
+  },
+  {
+    "id": 28,
+    "name": "Fermentation",
+    "type": "equipment",
+    "description": "[Apparatus] The stage where the Stone is infused with vitality and power."
+  },
+  {
+    "id": 29,
+    "name": "Projection",
+    "type": "equipment",
+    "description": "[Apparatus] The final act of using the Stone to transmute base metals into gold."
+  },
+  {
+    "id": 30,
+    "name": "Vitriol",
+    "type": "substance",
+    "description": "[Substance] Sulphuric acid, associated with the acronym VITRIOL (Visita Interiora Terrae...)."
+  },
+  {
+    "id": 31,
+    "name": "Multiplication",
+    "type": "equipment",
+    "description": "[Apparatus] Increasing the quantity and quality of the Philosopher's Stone."
+  },
+  {
+    "id": 32,
+    "name": "Sublimation",
+    "type": "equipment",
+    "description": "[Apparatus] The transition of a substance from solid to gas phase directly."
+  },
+  {
+    "id": 33,
+    "name": "George Ripley",
+    "type": "alchemist",
+    "description": "[Practitioner] English alchemist and canon, author of The Compound of Alchymy."
+  },
+  {
+    "id": 34,
+    "name": "Twelve Keys of Basil Valentine",
+    "type": "manuscript",
+    "description": "[Text] Influential treatise describing the steps of the Great Work."
+  },
+  {
+    "id": 35,
+    "name": "Musaeum Hermeticum",
+    "type": "manuscript",
+    "description": "[Text] 17th-century collection of Hermetic and alchemical works."
+  },
+  {
+    "id": 36,
+    "name": "Albertus Magnus",
+    "type": "alchemist",
+    "description": "[Practitioner] Medieval scholar and theologian with significant alchemical attributions."
+  },
+  {
+    "id": 37,
+    "name": "Hermes Trismegistus",
+    "type": "alchemist",
+    "description": "[Practitioner] Legendary founder of Hermeticism and alchemy, associated with the Emerald Tablet."
+  },
+  {
+    "id": 38,
+    "name": "Michael Maier",
+    "type": "alchemist",
+    "description": "[Practitioner] German alchemist and physician to Rudolf II, author of Atalanta Fugiens."
+  },
+  {
+    "id": 39,
+    "name": "Aurora Consurgens",
+    "type": "manuscript",
+    "description": "[Text] 15th-century manuscript attributed to Thomas Aquinas, rich in allegories."
+  },
+  {
+    "id": 40,
+    "name": "Roger Bacon",
+    "type": "alchemist",
+    "description": "[Practitioner] English philosopher and Franciscan friar, interested in experimental science and alchemy."
+  },
+  {
+    "id": 41,
+    "name": "Summa Perfectionis",
+    "type": "manuscript",
+    "description": "[Text] Influential Latin alchemical work likely written by Paul of Taranto."
+  },
+  {
+    "id": 42,
+    "name": "Petrus Bonus",
+    "type": "alchemist",
+    "description": "[Practitioner] 14th-century alchemist, author of the Margarita Pretiosa Novella."
+  },
+  {
+    "id": 43,
+    "name": "Robert Fludd",
+    "type": "alchemist",
+    "description": "[Practitioner] English physician and alchemist, noted for his encyclopedic Hermetic works."
+  },
+  {
+    "id": 44,
+    "name": "Frances Yates",
+    "type": "alchemist",
+    "description": "[Practitioner] Historian known for her work on the Hermetic tradition and the 'Rosicrucian Enlightenment'."
+  },
+  {
+    "id": 45,
+    "name": "Michael Sendivogius",
+    "type": "alchemist",
+    "description": "[Practitioner] Polish alchemist and diplomat, developer of the 'nitric' theory of life."
+  },
+  {
+    "id": 46,
+    "name": "Oswald Croll",
+    "type": "alchemist",
+    "description": "[Practitioner] Paracelsian physician and chemist, author of Basilica Chymica."
+  },
+  {
+    "id": 47,
+    "name": "Jean D'Espagnet",
+    "type": "alchemist",
+    "description": "[Practitioner] French counselor and alchemist, author of Arcanum Hermeticae Philosophiae."
+  },
+  {
+    "id": 48,
+    "name": "Eirenaeus Philalethes",
+    "type": "alchemist",
+    "description": "[Practitioner] Pseudonym for an influential 17th-century alchemist, likely George Starkey."
+  },
+  {
+    "id": 49,
+    "name": "Theatrum Chemicum",
+    "type": "manuscript",
+    "description": "[Text] Massive 17th-century compendium of alchemical writings."
+  },
+  {
+    "id": 50,
+    "name": "Jabir ibn Hayyan",
+    "type": "alchemist",
+    "description": "[Practitioner] 8th-century Persian polymath, credit for the sulphur-mercury theory."
+  },
+  {
+    "id": 51,
+    "name": "Calcination",
+    "type": "equipment",
+    "description": "[Apparatus] The process of heating a substance to high temperatures to oxidize it."
+  },
+  {
+    "id": 52,
+    "name": "Raymond Lull",
+    "type": "alchemist",
+    "description": "[Practitioner] Major figure in medieval logic and alchemy (though much is pseudo-Lullian)."
+  },
+  {
+    "id": 53,
+    "name": "Tria Prima",
+    "type": "theory",
+    "description": "[Allegory] The three principles: Salt, Sulphur, and Mercury."
+  },
+  {
+    "id": 54,
+    "name": "Thomas Vaughan",
+    "type": "alchemist",
+    "description": "[Practitioner] Welsh alchemist and priest, wrote under the pseudonym Eugenius Philalethes."
+  },
+  {
+    "id": 55,
+    "name": "Mary the Jewess",
+    "type": "alchemist",
+    "description": "[Practitioner] Early alchemist (1st-3rd century) credited with inventing the bain-marie."
+  },
+  {
+    "id": 56,
+    "name": "George Starkey",
+    "type": "Alchemist / Colonial Intellectual",
+    "description": "[Practitioner] Colonial American alchemist and physician, tutor to Robert Boyle."
+  },
+  {
+    "id": 57,
+    "name": "Theatrum Chemicum Britannicum",
+    "type": "manuscript",
+    "description": "[Text] Elias Ashmole's collection of English alchemical poetry."
+  },
+  {
+    "id": 58,
+    "name": "Atalanta Fugiens",
+    "type": "manuscript",
+    "description": "[Text] Emblem book by Michael Maier combining alchemy, music, and myth."
+  },
+  {
+    "id": 59,
+    "name": "Peacock's Tail",
+    "type": "theory",
+    "description": "[Allegory] The display of many colors during the alchemical process."
+  },
+  {
+    "id": 60,
+    "name": "Green Lion",
+    "type": "theory",
+    "description": "[Allegory] Allegory for a corrosive acid or the initial raw state of mercury."
+  },
+  {
+    "id": 61,
+    "name": "Andreas Libavius",
+    "type": "alchemist",
+    "description": "[Practitioner] German physician and chemist, author of Alchymia."
+  },
+  {
+    "id": 62,
+    "name": "Heinrich Khunrath",
+    "type": "alchemist",
+    "description": "[Practitioner] German physician and Paracelsian alchemist, author of Amphitheatrum Sapientiae Eternae."
+  },
+  {
+    "id": 63,
+    "name": "Arthur Dee",
+    "type": "alchemist",
+    "description": "[Practitioner] Son of John Dee, alchemist and physician to Czar Michael I."
+  },
+  {
+    "id": 64,
+    "name": "Secretum Secretorum",
+    "type": "manuscript",
+    "description": "[Text] The 'Secret of Secrets', a medieval mirror for princes with alchemical sections."
+  },
+  {
+    "id": 65,
+    "name": "Natural Magic",
+    "type": "candidate",
+    "description": "The practice of using hidden powers within nature, as discussed by Agrippa."
+  },
+  {
+    "id": 66,
+    "name": "Psychology and Alchemy",
+    "type": "manuscript",
+    "description": "[Text] C.G. Jung's foundational work on alchemical symbolism."
+  },
+  {
+    "id": 67,
+    "name": "Crucible",
+    "type": "equipment",
+    "description": "[Apparatus] Heat-resistant container used for melting metals."
+  },
+  {
+    "id": 68,
+    "name": "Alchymia",
+    "type": "manuscript",
+    "description": "[Text] Andreas Libavius's systematization of chemical knowledge."
+  },
+  {
+    "id": 69,
+    "name": "Hyle",
+    "type": "candidate",
+    "description": "The 'ultimate superior things' or prime matter in medieval cosmography and alchemy."
+  },
+  {
+    "id": 70,
+    "name": "Alembic",
+    "type": "equipment",
+    "description": "[Apparatus] A tool for distillation, consisting of two vessels and a tube."
+  },
+  {
+    "id": 71,
+    "name": "Sal Ammoniac",
+    "type": "substance",
+    "description": "[Substance] Ammonium chloride, essential for many alchemical distillations."
+  },
+  {
+    "id": 72,
+    "name": "Triumphal Chariot of Antimony",
+    "type": "manuscript",
+    "description": "[Text] Treatise by Basil Valentine on the medicinal use of antimony."
+  },
+  {
+    "id": 73,
+    "name": "Antimony",
+    "type": "substance",
+    "description": "[Substance] Mineral often called the 'Grey Wolf' used in the purification of gold."
+  },
+  {
+    "id": 74,
+    "name": "Ouroboros",
+    "type": "theory",
+    "description": "[Allegory] Symbol of a serpent eating its own tail, representing cyclical nature."
+  },
+  {
+    "id": 75,
+    "name": "Solve et Coagula",
+    "type": "theory",
+    "description": "[Allegory] Alchemical maxim meaning 'Dissolve and Coagulate'."
+  },
+  {
+    "id": 76,
+    "name": "Coagulation",
+    "type": "equipment",
+    "description": "[Apparatus] The process of thickening or solidifying a liquid."
+  },
+  {
+    "id": 77,
+    "name": "Cucurbit",
+    "type": "equipment",
+    "description": "[Apparatus] The lower part of a still, often shaped like a gourd."
+  },
+  {
+    "id": 78,
+    "name": "Nigredo",
+    "type": "theory",
+    "description": "[Allegory] The 'Blackening' stage, representing putrefaction and death."
+  },
+  {
+    "id": 79,
+    "name": "Arnald of Villanova",
+    "type": "alchemist",
+    "description": "[Practitioner] 13th-century physician and alchemist, attributed with many works on the Stone."
+  },
+  {
+    "id": 80,
+    "name": "Basilica Chymica",
+    "type": "manuscript",
+    "description": "[Text] Oswald Croll's pharmaceutical and alchemical textbook."
+  },
+  {
+    "id": 81,
+    "name": "Homunculus",
+    "type": "theory",
+    "description": "[Allegory] The 'little man' created through alchemical or magical means."
+  },
+  {
+    "id": 82,
+    "name": "Aqua Regia",
+    "type": "substance",
+    "description": "[Substance] A mixture of nitric and hydrochloric acids capable of dissolving gold."
+  },
+  {
+    "id": 83,
+    "name": "C.G. Jung",
+    "type": "alchemist",
+    "description": "[Practitioner] Psychologist who analyzed alchemical symbolism and its relation to the psyche."
+  },
+  {
+    "id": 84,
+    "name": "The Phoenix",
+    "type": "theory",
+    "description": "[Allegory] Symbol of rebirth and the attainment of the Red Stone."
+  },
+  {
+    "id": 85,
+    "name": "The Pelican",
+    "type": "theory",
+    "description": "[Allegory] Symbol of self-sacrifice and nourishment of the work."
+  },
+  {
+    "id": 86,
+    "name": "Didier Kahn",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern scholar focusing on Paracelsianism in early modern France."
+  },
+  {
+    "id": 87,
+    "name": "Rubedo",
+    "type": "theory",
+    "description": "[Allegory] The 'Reddening' stage, representing the final goal."
+  },
+  {
+    "id": 88,
+    "name": "Albedo",
+    "type": "theory",
+    "description": "[Allegory] The 'Whitening' stage, representing purification."
+  },
+  {
+    "id": 89,
+    "name": "Margarita Pretiosa Novella",
+    "type": "manuscript",
+    "description": "[Text] The 'New Precious Pearl' by Petrus Bonus."
+  },
+  {
+    "id": 90,
+    "name": "John Dastin",
+    "type": "alchemist",
+    "description": "[Practitioner] English alchemist and correspondent with Pope John XXII."
+  },
+  {
+    "id": 91,
+    "name": "Arsenic",
+    "type": "substance",
+    "description": "[Substance] Potent poison used as a whitening agent in alchemical metallurgy."
+  },
+  {
+    "id": 92,
+    "name": "Chemical Wedding",
+    "type": "theory",
+    "description": "[Allegory] The union of opposites, often depicted as a royal marriage."
+  },
+  {
+    "id": 93,
+    "name": "Red King",
+    "type": "theory",
+    "description": "[Allegory] Represents the fixed principle or the completion of the Rubedo stage."
+  },
+  {
+    "id": 94,
+    "name": "White Queen",
+    "type": "theory",
+    "description": "[Allegory] Represents the volatile principle or the Albedo stage."
+  },
+  {
+    "id": 95,
+    "name": "Mircea Eliade",
+    "type": "alchemist",
+    "description": "[Practitioner] Historian of religion who explored the mythic dimensions of metallurgy and alchemy."
+  },
+  {
+    "id": 96,
+    "name": "Lawrence Principe",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern historian of science focusing on the reality of alchemical practice."
+  },
+  {
+    "id": 97,
+    "name": "William Newman",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern historian of science known for work on George Starkey and deck-making."
+  },
+  {
+    "id": 98,
+    "name": "Monas Hieroglyphica",
+    "type": "manuscript",
+    "description": "[Text] Symbolic work by John Dee explaining a single hieroglyphic sign."
+  },
+  {
+    "id": 99,
+    "name": "Rebis",
+    "type": "theory",
+    "description": "[Allegory] The 'Two-Thing', a hermaphroditic figure representing the end of the work."
+  },
+  {
+    "id": 100,
+    "name": "Magnum Opus",
+    "type": "theory",
+    "description": "[Allegory] The 'Great Work' of creating the Philosopher's Stone."
+  },
+  {
+    "id": 101,
+    "name": "Lapis Philosophorum",
+    "type": "substance",
+    "description": "[Substance] The Philosopher's Stone, the goal of the Great Work."
+  },
+  {
+    "id": 102,
+    "name": "Stockholm Papyrus",
+    "type": "manuscript",
+    "description": "[Text] Companion to the Leyden Papyrus, focused on dyeing and gemstones."
+  },
+  {
+    "id": 103,
+    "name": "Ostanes",
+    "type": "alchemist",
+    "description": "[Practitioner] Legendary Persian magus and alchemist mentioned by Pliny."
+  },
+  {
+    "id": 104,
+    "name": "Bolos of Mendes",
+    "type": "alchemist",
+    "description": "[Practitioner] Greek alchemist (c. 200 BC), author of Physika kai Mystika."
+  },
+  {
+    "id": 105,
+    "name": "Bernard Trevisan",
+    "type": "alchemist",
+    "description": "[Practitioner] 15th-century Italian alchemist dedicated to the search for the Stone."
+  },
+  {
+    "id": 106,
+    "name": "Bruce Moran",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern scholar focusing on the patronage systems of alchemists."
+  },
+  {
+    "id": 107,
+    "name": "Tara Nummedal",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern historian focusing on the social and legal aspects of alchemy."
+  },
+  {
+    "id": 108,
+    "name": "Joachim Telle",
+    "type": "alchemist",
+    "description": "[Practitioner] Renowned German scholar of early modern alchemical literature."
+  },
+  {
+    "id": 109,
+    "name": "Herbert Silberer",
+    "type": "alchemist",
+    "description": "[Practitioner] Psychoanalyst who linked alchemical symbolism with psychic phenomena."
+  },
+  {
+    "id": 110,
+    "name": "Pamela Smith",
+    "type": "alchemist",
+    "description": "[Practitioner] Modern historian focusing on the material culture of alchemy and science."
+  },
+  {
+    "id": 111,
+    "name": "Sand Bath",
+    "type": "equipment",
+    "description": "[Apparatus] A method of heating a vessel using hot sand for even temperatures."
+  },
+  {
+    "id": 112,
+    "name": "Mortar and Pestle",
+    "type": "equipment",
+    "description": "[Apparatus] Basic tools used for grinding and mixing solid materials."
+  },
+  {
+    "id": 113,
+    "name": "Ash Bath",
+    "type": "equipment",
+    "description": "[Apparatus] Similar to a sand bath, but using ashes for gentler heat."
+  },
+  {
+    "id": 114,
+    "name": "Leyden Papyrus X",
+    "type": "manuscript",
+    "description": "[Text] Ancient Egyptian recipe book for metallurgical imitations."
+  },
+  {
+    "id": 115,
+    "name": "Ripley Scroll",
+    "type": "manuscript",
+    "description": "[Text] Large illustrated scroll depicting the alchemical process according to George Ripley."
+  },
+  {
+    "id": 116,
+    "name": "Mary Anne Atwood",
+    "type": "alchemist",
+    "description": "[Practitioner] 19th-century author of A Suggestive Inquiry into the Hermetic Mystery."
+  },
+  {
+    "id": 117,
+    "name": "Johann Th\u00f6lde",
+    "type": "alchemist",
+    "description": "[Practitioner] Salt-maker and publisher of the works of Basil Valentine."
+  },
+  {
+    "id": 118,
+    "name": "Citrinitas",
+    "type": "theory",
+    "description": "[Allegory] The 'Yellowing' stage, representing awakening."
+  },
+  {
+    "id": 119,
+    "name": "A Suggestive Inquiry",
+    "type": "manuscript",
+    "description": "[Text] Mary Anne Atwood's 19th-century work on the psychological mystery of alchemy."
+  },
+  {
+    "id": 120,
+    "name": "Fons Vitae",
+    "type": "manuscript",
+    "description": "[Text] The 'Fountain of Life', significant Neoplatonic-alchemical influence."
+  },
+  {
+    "id": 121,
+    "name": "Chrysopoeia of Cleopatra",
+    "type": "manuscript",
+    "description": "[Text] Early Greek alchemical papyrus focused on the production of gold."
+  },
+  {
+    "id": 122,
+    "name": "Pelikan",
+    "type": "equipment",
+    "description": "[Apparatus] A circulatory distillation vessel with two side arms."
+  },
+  {
+    "id": 123,
+    "name": "Fixation of the Volatile",
+    "type": "theory",
+    "description": "[Allegory] The process of making a volatile substance stable."
+  },
+  {
+    "id": 124,
+    "name": "Agathodaemon",
+    "type": "alchemist",
+    "description": "[Practitioner] Early alchemist often associated with the discovery of arsenic."
+  },
+  {
+    "id": 125,
+    "name": "William R. Newman",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Lawrence M. Principe",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Barbara Obrist",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Peter Forshaw",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Allen Debus",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "Anke Timmerman",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "Pamela H. Smith",
+    "type": "Scholar",
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Johann Joachim Becher",
+    "type": "Alchemist / Political Economist",
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "Georg Ernst Stahl",
+    "type": "Chemist / Theorist",
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Gottfried Wilhelm Leibniz",
+    "type": "Philosopher / Court Intellectual",
+    "description": null
+  }
+]

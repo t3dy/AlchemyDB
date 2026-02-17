@@ -1,0 +1,1208 @@
+[
+  {
+    "id": 1,
+    "name": "Heinrich Cornelius Agrippa",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 2,
+    "name": "Masha'allah ibn Athari",
+    "entity_type": "historical_figure",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 3,
+    "name": "Avicebron (Solomon ibn Gabirol)",
+    "entity_type": "author",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 4,
+    "name": "Paracelsus",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 5,
+    "name": "Isaac Newton",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 6,
+    "name": "Turba Philosophorum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 7,
+    "name": "John Dee",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 8,
+    "name": "Philosophical Mercury",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 9,
+    "name": "Mutus Liber",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 10,
+    "name": "Rosarium Philosophorum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 11,
+    "name": "Zosimos of Panopolis",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 12,
+    "name": "Sulphur",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 13,
+    "name": "Cinnabar",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 14,
+    "name": "Splendor Solis",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 15,
+    "name": "Azoth",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 16,
+    "name": "Salt",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 17,
+    "name": "Basil Valentine",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 18,
+    "name": "Spirit of Wine",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 19,
+    "name": "Robert Boyle",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 20,
+    "name": "Nicolas Flamel",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 21,
+    "name": "Emerald Tablet",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 22,
+    "name": "Distillation",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 23,
+    "name": "Circulation",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 24,
+    "name": "Philosophical Egg",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 25,
+    "name": "Retort",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 26,
+    "name": "Athanor",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 27,
+    "name": "Putrefaction",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 28,
+    "name": "Fermentation",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 29,
+    "name": "Projection",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 30,
+    "name": "Vitriol",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 31,
+    "name": "Multiplication",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 32,
+    "name": "Sublimation",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 33,
+    "name": "George Ripley",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 34,
+    "name": "Twelve Keys of Basil Valentine",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 35,
+    "name": "Musaeum Hermeticum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 36,
+    "name": "Albertus Magnus",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 37,
+    "name": "Hermes Trismegistus",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 38,
+    "name": "Michael Maier",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 39,
+    "name": "Aurora Consurgens",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 40,
+    "name": "Roger Bacon",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 41,
+    "name": "Summa Perfectionis",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 42,
+    "name": "Petrus Bonus",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 43,
+    "name": "Robert Fludd",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 44,
+    "name": "Frances Yates",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 45,
+    "name": "Michael Sendivogius",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 46,
+    "name": "Oswald Croll",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 47,
+    "name": "Jean D'Espagnet",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 48,
+    "name": "Eirenaeus Philalethes",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 49,
+    "name": "Theatrum Chemicum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 50,
+    "name": "Jabir ibn Hayyan",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 51,
+    "name": "Calcination",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 52,
+    "name": "Raymond Lull",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 53,
+    "name": "Tria Prima",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 54,
+    "name": "Thomas Vaughan",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 55,
+    "name": "Mary the Jewess",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 56,
+    "name": "George Starkey",
+    "entity_type": "Alchemist / Colonial Intellectual",
+    "confidence": 1.0,
+    "knowledge_type": "experimental",
+    "social_role": "artisan / experimental chemist",
+    "participation_type": "experimental"
+  },
+  {
+    "id": 57,
+    "name": "Theatrum Chemicum Britannicum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 58,
+    "name": "Atalanta Fugiens",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 59,
+    "name": "Peacock's Tail",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 60,
+    "name": "Green Lion",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 61,
+    "name": "Andreas Libavius",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 62,
+    "name": "Heinrich Khunrath",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 63,
+    "name": "Arthur Dee",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 64,
+    "name": "Secretum Secretorum",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 65,
+    "name": "Natural Magic",
+    "entity_type": "candidate",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 66,
+    "name": "Psychology and Alchemy",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 67,
+    "name": "Crucible",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 68,
+    "name": "Alchymia",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 69,
+    "name": "Hyle",
+    "entity_type": "candidate",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 70,
+    "name": "Alembic",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 71,
+    "name": "Sal Ammoniac",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 72,
+    "name": "Triumphal Chariot of Antimony",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 73,
+    "name": "Antimony",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 74,
+    "name": "Ouroboros",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 75,
+    "name": "Solve et Coagula",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 76,
+    "name": "Coagulation",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 77,
+    "name": "Cucurbit",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 78,
+    "name": "Nigredo",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 79,
+    "name": "Arnald of Villanova",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 80,
+    "name": "Basilica Chymica",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 81,
+    "name": "Homunculus",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 82,
+    "name": "Aqua Regia",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 83,
+    "name": "C.G. Jung",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 84,
+    "name": "The Phoenix",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 85,
+    "name": "The Pelican",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 86,
+    "name": "Didier Kahn",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 87,
+    "name": "Rubedo",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 88,
+    "name": "Albedo",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 89,
+    "name": "Margarita Pretiosa Novella",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 90,
+    "name": "John Dastin",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 91,
+    "name": "Arsenic",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 92,
+    "name": "Chemical Wedding",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 93,
+    "name": "Red King",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 94,
+    "name": "White Queen",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 95,
+    "name": "Mircea Eliade",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 96,
+    "name": "Lawrence Principe",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 97,
+    "name": "William Newman",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 98,
+    "name": "Monas Hieroglyphica",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 99,
+    "name": "Rebis",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 100,
+    "name": "Magnum Opus",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 101,
+    "name": "Lapis Philosophorum",
+    "entity_type": "substance",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 102,
+    "name": "Stockholm Papyrus",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 103,
+    "name": "Ostanes",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 104,
+    "name": "Bolos of Mendes",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 105,
+    "name": "Bernard Trevisan",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 106,
+    "name": "Bruce Moran",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 107,
+    "name": "Tara Nummedal",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 108,
+    "name": "Joachim Telle",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 109,
+    "name": "Herbert Silberer",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 110,
+    "name": "Pamela Smith",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 111,
+    "name": "Sand Bath",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 112,
+    "name": "Mortar and Pestle",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 113,
+    "name": "Ash Bath",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 114,
+    "name": "Leyden Papyrus X",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 115,
+    "name": "Ripley Scroll",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 116,
+    "name": "Mary Anne Atwood",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 117,
+    "name": "Johann Th\u00f6lde",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 118,
+    "name": "Citrinitas",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 119,
+    "name": "A Suggestive Inquiry",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 120,
+    "name": "Fons Vitae",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 121,
+    "name": "Chrysopoeia of Cleopatra",
+    "entity_type": "manuscript",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 122,
+    "name": "Pelikan",
+    "entity_type": "equipment",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 123,
+    "name": "Fixation of the Volatile",
+    "entity_type": "theory",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 124,
+    "name": "Agathodaemon",
+    "entity_type": "alchemist",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 125,
+    "name": "William R. Newman",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 126,
+    "name": "Lawrence M. Principe",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 127,
+    "name": "Barbara Obrist",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 128,
+    "name": "Peter Forshaw",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 129,
+    "name": "Allen Debus",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 130,
+    "name": "Anke Timmerman",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": null,
+    "social_role": null,
+    "participation_type": null
+  },
+  {
+    "id": 131,
+    "name": "Pamela H. Smith",
+    "entity_type": "Scholar",
+    "confidence": 1.0,
+    "knowledge_type": "textual / artisanal / political-economic",
+    "social_role": "academic philosopher / historian",
+    "participation_type": null
+  },
+  {
+    "id": 132,
+    "name": "Johann Joachim Becher",
+    "entity_type": "Alchemist / Political Economist",
+    "confidence": 1.0,
+    "knowledge_type": "experimental / political-economic",
+    "social_role": "court projector",
+    "participation_type": "experimental / speculative"
+  },
+  {
+    "id": 133,
+    "name": "Georg Ernst Stahl",
+    "entity_type": "Chemist / Theorist",
+    "confidence": 1.0,
+    "knowledge_type": "experimental",
+    "social_role": "academic philosopher / chemist",
+    "participation_type": "experimental"
+  },
+  {
+    "id": 134,
+    "name": "Gottfried Wilhelm Leibniz",
+    "entity_type": "Philosopher / Court Intellectual",
+    "confidence": 1.0,
+    "knowledge_type": "textual / political-economic",
+    "social_role": "court intellectual / advisor",
+    "participation_type": "advisory / speculative"
+  }
+]
