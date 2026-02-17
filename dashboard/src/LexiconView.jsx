@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
-import lexiconData from '../exports/lexicon.json'
-import biographiesData from '../exports/biographies.json'
-import candidatesData from '../exports/candidates.json'
+import lexiconData from './data/lexicon.json'
+import biographiesData from './data/biographies.json'
+import candidatesData from './data/candidates.json'
 
 function LexiconView() {
     const [lexicon, setLexicon] = useState([])
